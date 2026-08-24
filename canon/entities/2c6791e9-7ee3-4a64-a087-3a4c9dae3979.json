@@ -1,0 +1,25 @@
+{
+  "attributes": {
+    "cause": "the well-string turned brackish across a single season. The Wardenry rationed rather than closed, because closing it stranded four hundred people at the halfway point.",
+    "consequence": "the Fourth Article — the hazard clause — sealed the following spring, extending the Wardenry's reach from wells to any water within the bounds",
+    "counter_reading": "the wells went bad on their own, and the rationing order that actually killed people was the Wardenry's. The Article answered a failure of judgement with a grant of power to the body that failed. Anyone on the plain can make this argument. Nobody at Bell Harrow will hear it.",
+    "date": "RR 166. The Fourth Article followed in RR 167.",
+    "finding": "the inquiry at Bell Harrow held that the Wardenry's authority ran to wells and not to water, and that the gap was what killed them",
+    "how_it_is_used": "it is the moral cover for every seizure since. A Warden invoking the Fourth is never arguing about property; they are arguing about the two hundred, and they mean it.",
+    "present_day": "RR 203",
+    "toll": "two crossings; something over two hundred dead between the wells and the rim",
+    "why_the_name": "'brackening' is what the plain calls a well going salt — it is a common word used once, here, as a proper noun"
+  },
+  "category_id": "7a510783-2fb6-426d-988b-17301e178c5b",
+  "id": "2c6791e9-7ee3-4a64-a087-3a4c9dae3979",
+  "name": "The Brackening at Sixty Wells",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Over one season the well-string at Sixty Wells went from drinkable to brackish to poison, and the Wardenry rationed it rather than closing it. Two crossings drank there, and something over two hundred people died between the wells and the rim. The inquiry held that the Wardenry had authority over wells but not over water, and that the gap had killed people; the Fourth Article was sealed the following spring.",
+  "tags": [
+    "history",
+    "disaster",
+    "law",
+    "precedent"
+  ]
+}

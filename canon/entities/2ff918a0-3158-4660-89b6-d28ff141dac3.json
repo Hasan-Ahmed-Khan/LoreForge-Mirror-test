@@ -1,0 +1,71 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Geology"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      },
+      {
+        "text": "",
+        "title": "Land Use"
+      },
+      {
+        "text": "",
+        "title": "Economy"
+      },
+      {
+        "text": "",
+        "title": "Demographics"
+      },
+      {
+        "text": "",
+        "title": "Security"
+      }
+    ],
+    "aliases": [
+      "the plain",
+      "the White",
+      "the old sea"
+    ],
+    "caravan_pace": "~19 miles/day laden; ~26 unladen or in a forced run",
+    "extent": "~800 miles rim to rim; ~385 miles from any rim to the centre",
+    "hazards": [
+      "glare blindness (walkers ride masked, eye-slits cut in hide)",
+      "rotten crust - a wheel through the lid and the axle is in brine",
+      "salt-sting: cracked lips, split knuckles, cuts that will not close",
+      "no shade of any kind between beacons"
+    ],
+    "sensory": [
+      "white glare",
+      "hot stone",
+      "old brine",
+      "ticking crust",
+      "no wind at noon"
+    ],
+    "surface": "salt crust over grey clay; polygonal pressure ridges; soft 'rotten' patches where brine sits under a thin lid",
+    "the_road": "the Salt Road is not a road but a surveyed line of beacons - iron tripods on cairns, one every half-mile, blackened with pitch so they read against the glare. Off the beacon line there is no line.",
+    "travel_days": {
+      "rim to centre": 20,
+      "rim to rim (Bell Harrow - Tallow Reach)": 41
+    },
+    "type": "salt plain",
+    "was": "an inland sea, drained or evaporated some two centuries ago",
+    "water": "none on the surface. Every drop crossing the plain is carried, or drawn at Sixty Wells and the Dry Ferry."
+  },
+  "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "id": "2ff918a0-3158-4660-89b6-d28ff141dac3",
+  "name": "The Meniscus",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The salt plain that was an inland sea, eight hundred miles rim to rim, flat enough that a dropped rope lies straight and the far side of the world curves away below the eye. The crust is grey-white and ridged into polygons the width of a wagon, and it takes the sun and gives it back until noon is a white noise you feel in the teeth; caravans walk dawn to ten and four to dusk, and lie under hide awnings in between. It smells of hot stone and old brine, and it is silent except for the crust ticking as it cools.",
+  "tags": [
+    "setting",
+    "salt-plain",
+    "the-road",
+    "all-chapters"
+  ]
+}

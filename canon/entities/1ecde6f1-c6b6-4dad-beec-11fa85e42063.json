@@ -1,0 +1,30 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Properties"
+      }
+    ],
+    "certification": "College-sealed. An uncertified glass proves nothing to anybody: the seal, not the glass, is what makes a reading evidence.",
+    "contains": "reference brine drawn and sealed at the far rim under the College's mark",
+    "form": "graduated glass tube, about eighteen inches, stoppered and waxed at both ends, carried in a fleece sleeve inside a wooden case",
+    "fragility": "glass. It has been dropped once and did not break, and Denet has not stopped thinking about that.",
+    "holder": "Denet Rasca",
+    "if_it_breaks": "the reference brine is gone and cannot be remade anywhere on the plain. Nobody can re-test the centre until someone walks a new sealed glass out from the far rim — a season, at best.",
+    "present_day": "RR 203",
+    "use": "floats a sample against a known brine — reads fresh, brackish or plain in about a minute"
+  },
+  "category_id": "4a25a123-bd3d-4465-9ce3-f3a7dc5cd717",
+  "id": "1ecde6f1-c6b6-4dad-beec-11fa85e42063",
+  "name": "The Water-Glass",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Denet Rasca's instrument: a graduated glass tube a forearm long, stoppered and waxed at both ends, half-filled with a reference brine drawn at the far rim and sealed under the College's mark. Floating a sample against the reference says in a minute what a boring log takes a week to say — how much of what you pulled up is water and how much is the plain. It is glass, it is calibrated, and there is exactly one of it on the crossing.",
+  "tags": [
+    "instrument",
+    "fragile",
+    "survey",
+    "plot-critical"
+  ]
+}

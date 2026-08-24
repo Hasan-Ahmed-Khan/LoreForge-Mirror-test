@@ -1,0 +1,70 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Geology"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      },
+      {
+        "text": "",
+        "title": "Land Use"
+      },
+      {
+        "text": "",
+        "title": "Economy"
+      },
+      {
+        "text": "",
+        "title": "Demographics"
+      },
+      {
+        "text": "",
+        "title": "Security"
+      }
+    ],
+    "economy": [
+      "rendering",
+      "resale of spent teams and wagons",
+      "southern grain in exchange for salt"
+    ],
+    "features": [
+      "the red shelf - the old south shore, no quays, wagons winched up",
+      "the salt wall, built to break the drift, not to defend",
+      "the rendering yards: tallow, hide, rope, axle-grease",
+      "the outbound pound, where arriving teams are sold off cheap"
+    ],
+    "population": "~18,000",
+    "position": "south rim of the Meniscus; the southern head of the Salt Road",
+    "relation_to_bell_harrow": "the junior partner and knows it - Bell Harrow sets the price of a crossing, Tallow Reach takes what arrives",
+    "sensory": [
+      "tallow",
+      "red dust",
+      "rendering smoke",
+      "wind off the plain"
+    ],
+    "travel_days": {
+      "Bell Harrow": 41,
+      "Sixty Wells": 35,
+      "the Centre": 21,
+      "the Dry Ferry": 28
+    },
+    "type": "rim-city",
+    "water": "three springs in the red rock, better than Bell Harrow's and the town's one boast"
+  },
+  "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "id": "0b137f58-891a-40da-878c-c07d76940d3b",
+  "name": "Tallow Reach",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The far rim, forty-one days south of Bell Harrow, and a poorer town for it: no stepped quays, just a shelf of red rock where the old sea ended and a spill of flat-roofed houses behind a wall built to stop salt, not people. It renders rather than kilns - fat, hide, rope and axle-grease - so the whole reach smells of tallow and the wind off the plain carries it twenty miles out. Crossings that arrive here arrive spent, and Tallow Reach makes its living on what a spent crossing has to sell cheap.",
+  "tags": [
+    "rim-city",
+    "south-rim",
+    "far-side",
+    "chapter-6"
+  ]
+}

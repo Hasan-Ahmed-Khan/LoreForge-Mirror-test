@@ -1,0 +1,38 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 34,
+    "debt_held_by": "a Bell Harrow broker",
+    "fears": "being the one everybody later agrees they should not have trusted",
+    "origin": "Bell Harrow, indebted there",
+    "role": "drover and harness-mender",
+    "tell": "mends something with his hands while he negotiates",
+    "voice": "jokes, deflection, constant chatter over the work; goes silent when he is calculating",
+    "wants": "to clear the debt before his daughter is old enough to inherit it"
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "6dfcf5e4-ed16-41d3-9889-9242e3a2b13b",
+  "name": "Pell Corrow",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Drover and harness-mender on Ysoly's train, thirty-four, cheerful in the way of a man who owes money in a town he has to keep coming back to. He talks continuously while he works and stops talking entirely when he is thinking, which is the only warning anyone gets. He is loyal to Ysoly and he is also the crew member most likely to sell a piece of news to Bell Harrow, and he does not experience those as a contradiction.",
+  "tags": [
+    "caravan",
+    "supporting",
+    "bell-harrow",
+    "wildcard"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Structure"
+      },
+      {
+        "text": "",
+        "title": "History"
+      },
+      {
+        "text": "",
+        "title": "Relations"
+      }
+    ],
+    "apprentice": "Hanei",
+    "debt": "held against the wagons at Bell Harrow — one bad crossing from foreclosure, and everyone on the plain knows it",
+    "founded": "RR 171; Ysoly has held the licence since RR 173",
+    "licence": "one current crossing tile, stamped for the centre route",
+    "master": "Ysoly Tamm",
+    "present_day": "RR 203",
+    "size": "nine wagons, forty-one draught beasts, eleven hands including the apprentice",
+    "standing": "licensed continuously since founding; has never lost a crossing, which is rare enough to be worth money at the weighbridge",
+    "what_it_owns": "the wagons, the beasts and the tally-stick. Never the cargo. The cargo is always somebody else's.",
+    "why_it_matters_in_chapter_5": "a licence-holder standing on ground sealed under the Fourth Article may demand the survey be begun within one season — the Tamm Line's tile is the only clock anyone at the centre has"
+  },
+  "category_id": "adac2ac0-62aa-4cf7-bb5c-ea28795a985a",
+  "id": "03f17dbb-dc38-4e72-ac4c-ac6156f99933",
+  "name": "The Tamm Line",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Ysoly Tamm's outfit — nine wagons, forty-one head of draught, eleven hands, and a debt at Bell Harrow that has outlived two of her partners. It is a family firm with no family left in it: the name is on the tally-stick and the licence tile and nowhere else. Thirty years without losing a crossing has bought it a reputation it can no longer afford to trade on.",
+  "tags": [
+    "institution",
+    "caravan",
+    "protagonist-side"
+  ]
+}

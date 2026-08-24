@@ -1,0 +1,8 @@
+{
+  "bidirectional": false,
+  "from_entity_id": "e46ea4b2-76c7-4f6a-92cf-135e5ce288cd",
+  "id": "d56496de-10ca-4bce-b78a-6b9b37ce1404",
+  "label": "sets the price of every crossing at",
+  "notes": "It owns no wagons; it owns the right to what the wagons carry, and its counting-house on the quay assays the salt and prices the crossing. Bell Harrow sets what a crossing is worth and Tallow Reach takes what arrives, so a grip on the north rim is a grip on the whole Road. The chapter 1 loading happens under that price whether or not anyone says so.",
+  "to_entity_id": "337bcb37-689e-483d-acc6-e7ad0ee0c85c"
+}

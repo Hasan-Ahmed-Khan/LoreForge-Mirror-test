@@ -1,0 +1,28 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Properties"
+      }
+    ],
+    "dumping": "throwing ballast is the only way to make real speed on the plain. The shortfall is owed at the far-rim weighbridge at the Assembly's price, by the master personally, not the firm.",
+    "form": "pressed blocks, forty pounds each, stacked low between the axles",
+    "on_the_tamm_line": "two hundred and twelve blocks at loading",
+    "present_day": "RR 203",
+    "purpose": "ballast first, cargo second — a light wagon slides on crust in a crosswind and a sliding wagon takes the string with it",
+    "telltale": "a dumped block leaves a white scar on the crust that the glare finds for about a week — dumping is visible from behind you",
+    "value": "second-grade salt, assayed and priced by the Salt Assembly at both rims"
+  },
+  "category_id": "4a25a123-bd3d-4465-9ce3-f3a7dc5cd717",
+  "id": "593cd7cd-21f7-4435-9ab7-528233a57d72",
+  "name": "Ballast Salt",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Pressed blocks of second-grade salt, forty pounds each, stacked low between the axles to keep a wagon from walking on the crust in a crosswind. It is cargo and it is also the thing you throw away to go faster, so every decision to dump it is a decision about who you are trying to reach and what you are willing to owe the Assembly for it. A caravan that arrives light has a story to tell at the weighbridge, and the weighbridge has heard them all.",
+  "tags": [
+    "cargo",
+    "physical",
+    "economy"
+  ]
+}

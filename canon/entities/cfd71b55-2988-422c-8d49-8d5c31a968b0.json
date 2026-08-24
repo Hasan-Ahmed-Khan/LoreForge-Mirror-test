@@ -1,0 +1,69 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Geology"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      },
+      {
+        "text": "",
+        "title": "Land Use"
+      },
+      {
+        "text": "",
+        "title": "Economy"
+      },
+      {
+        "text": "",
+        "title": "Demographics"
+      },
+      {
+        "text": "",
+        "title": "Security"
+      }
+    ],
+    "features": [
+      "sixty capped shafts in a field a quarter-mile across",
+      "the taster's board - which wells are sweet this season, chalked daily",
+      "the ring: mud-brick cells and hide awnings around the field",
+      "the pound, where teams are watered in shifts through the night",
+      "a Roadwarden post with two rooms and a strongbox"
+    ],
+    "hazards": [
+      "a fouled well is not always obvious until the teams refuse it"
+    ],
+    "population": "~200 permanent; 600+ when two crossings overlap",
+    "position": "on the beacon line, 6 days (~115 miles) south of Bell Harrow",
+    "sensory": [
+      "rope",
+      "wet stone",
+      "sulphur",
+      "hide lids cracking in the heat"
+    ],
+    "travel_days": {
+      "Bell Harrow": 6,
+      "Tallow Reach": 35,
+      "the Centre": 14,
+      "the Dry Ferry": 7,
+      "the Kell": 3
+    },
+    "type": "well station / caravan stop",
+    "water": "60 shafts, 9 sweet at any given season, the rest brackish to foul; the lens is shallow and drops through the summer"
+  },
+  "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "id": "cfd71b55-2988-422c-8d49-8d5c31a968b0",
+  "name": "Sixty Wells",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Six days out from Bell Harrow, the first and last honest water on the plain: a field of sixty shafts sunk through the crust to a brine lens that is only just drinkable, each capped with a stone collar and a hide lid to keep the sun off. Nine of the sixty are sweet, and which nine changes with the season, so a crossing pays a taster before it pays anything else. The station is a low ring of mud-brick and awning around the well field, and it smells of rope, wet stone and the sulphur that comes up with the water.",
+  "tags": [
+    "waypoint",
+    "water",
+    "chapter-2",
+    "on-the-road"
+  ]
+}

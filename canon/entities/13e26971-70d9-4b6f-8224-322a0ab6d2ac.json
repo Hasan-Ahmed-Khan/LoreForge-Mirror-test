@@ -1,0 +1,23 @@
+{
+  "attributes": {
+    "calendar": "Road Reckoning (RR), counted from the sealing of the Roadwarden Statute in RR 1",
+    "consequence": "the rim-cities were built as ports and are now inland. The crossing is the only thing that still joins them to each other.",
+    "living_memory": "none. The last person who had seen standing water on the Meniscus died about eighty years ago.",
+    "mechanism": "withdrawal, not catastrophe — a foot of shoreline a year for most of it, then one hot decade at the end that did the rest",
+    "period": "RR -160 to RR -10 — roughly a hundred and fifty years, ending about a decade before the Statute was sealed",
+    "present_day": "RR 203",
+    "residue": "crust to the depth of a man's arm over most of the bounds, with brine beneath it in places and, it now appears, fresh water beneath that at the centre",
+    "scale": "an inland sea to a salt plain roughly eight hundred miles across"
+  },
+  "category_id": "7a510783-2fb6-426d-988b-17301e178c5b",
+  "id": "13e26971-70d9-4b6f-8224-322a0ab6d2ac",
+  "name": "The Drying of the Meniscus",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The inland sea did not vanish; it withdrew, over about a hundred and fifty years, at a rate a person could live beside without ever quite noticing. Ports became terraces and terraces became rim, and the last standing water went off in a single hot decade, leaving eight hundred miles of crust and a ring of harbour cities with nothing to harbour. Everyone alive learned the plain from a parent who learned it from someone who remembered a shore.",
+  "tags": [
+    "history",
+    "foundational",
+    "geography"
+  ]
+}

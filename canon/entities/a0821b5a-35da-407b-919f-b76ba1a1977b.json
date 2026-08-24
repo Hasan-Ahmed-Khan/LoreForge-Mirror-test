@@ -1,0 +1,29 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Properties"
+      }
+    ],
+    "bears": "roll number, route, season, and the Wardenry's stamp struck through the glaze",
+    "carried_by": "the master of the crossing, on a thong at the neck — never left in a wagon, never handed to a hand",
+    "legal_basis": "the Second Article of the Roadwarden Statute — no wagon, beast or person passes the bounds unlicensed",
+    "material": "fired clay, salt-ash glaze, about four inches square, heavier than it looks",
+    "present_day": "RR 203",
+    "revocation": "broken by a Warden in the holder's hand; the halves are kept and returned to the roll at Bell Harrow",
+    "the_lever": "under the Fourth Article, a licence-holder standing on sealed ground may demand the hazard survey be begun within one season. Break the tile and the demand dies with it.",
+    "who_holds_one": "Ysoly Tamm — one current tile, stamped for the centre route"
+  },
+  "category_id": "4a25a123-bd3d-4465-9ce3-f3a7dc5cd717",
+  "id": "a0821b5a-35da-407b-919f-b76ba1a1977b",
+  "name": "The Crossing Licence Tile",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "A fired clay tile the size of a palm, glazed white with salt-ash and stamped through with the Wardenry's roll number, the route and the season it is good for. The caravan master carries it on a thong at the neck and surrenders it at the far rim; an unbroken tile is a lawful crossing and a broken tile is no crossing at all. Wardens revoke by breaking it in the holder's hand, in front of them, which is why every master on the plain flinches at the sound of fired clay.",
+  "tags": [
+    "legal",
+    "object",
+    "plot-critical"
+  ]
+}

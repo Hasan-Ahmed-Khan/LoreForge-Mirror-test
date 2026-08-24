@@ -1,0 +1,32 @@
+{
+  "attributes": {
+    "article_four_hazard": "THE FOURTH ARTICLE (Hazard), added RR 167. 'Water rising or standing within the bounds is a hazard to the crossings and is held in trust by the Wardenry. Where such water is found, a Warden of the Third Rank or above, standing upon the ground and speaking before two witnesses, may declare the ground about it a hazard, and set a seal upon it, and hold it against all comers until the hazard is surveyed and lifted. The Wardenry shall pay the finder the worth of the ground at the last assessed price of salt.'",
+    "article_one_bounds": "THE FIRST ARTICLE (Bounds). 'The bounds of the Meniscus are all ground lying below the old shoreline and bearing salt to the depth of a man's arm. Within the bounds the Wardenry answers for the crossings. Beyond them it answers for nothing.'",
+    "article_three_water": "THE THIRD ARTICLE (Water). 'Every licensed crossing shall carry water to the measure of two gallons the head the day, and shall answer for it at the far rim. Every well within the bounds is the Wardenry's to open, to close and to ration.'",
+    "article_two_licence": "THE SECOND ARTICLE (Licence). 'No wagon, beast or person shall pass the bounds unlicensed. A licence is a fired tile, stamped to a roll number, a route and a season, carried by the master of the crossing and surrendered at the far rim. A broken tile is no licence.'",
+    "date": "RR 1 — the year the calendar starts; two centuries before the present",
+    "how_to_invoke_it_correctly": "Warden of Third Rank or above, physically on the ground, says it aloud, names two witnesses, sets the seal. Forty days to the Bell Harrow roll. Site held, papers untouched, compensation owed. That is the whole mechanism — chapter 5 needs nothing more and nothing less.",
+    "limits": "(1) BOUNDS ONLY — it reaches water inside the Meniscus and nowhere else; water at the rim is beyond it entirely. (2) FORTY DAYS — a seal not entered on the Bell Harrow roll within forty days lapses, and the same ground cannot be re-declared for a year. (3) GROUND, NOT PAPER — it seizes ground and water and has no reach whatever over surveys, notes, instruments or the people carrying them. The packet cannot be taken under this Article. (4) COMPENSATION — the finder is owed the worth of the ground at the last assessed salt price, payable at Bell Harrow. Refusing to pay does not void the seal, but it stands as a debt on the Wardenry's roll and can be sued at the rim. (5) THE SEASON CLOCK — a licence-holder standing on sealed ground may demand the survey be begun within one season. The Wardenry appoints the surveyor, but the clock is real, and it is the only limit in the Article with teeth.",
+    "present_day": "RR 203",
+    "sealed_at": "Bell Harrow, by eleven route-keepers and the councils of two rim-cities",
+    "structure": "four articles. The first three are original to RR 1; the Fourth was added in RR 167 after the Brackening at Sixty Wells.",
+    "the_abuse": "'Until the hazard is surveyed and lifted' has no outer bound, and the Wardenry appoints its own surveyor. The Ferrant seal of RR 189 is still in force and its survey has never been begun. Unless a licence-holder forces the season clock, a hazard declaration is permanent.",
+    "the_argument_available": "The Third Article already gave the Wardenry every well within the bounds; the Fourth extended that from wells to any water. Water eighty feet under the centre is not a well and was not one until a survey made it findable. A rim advocate can argue in good faith that the Fourth does not reach it. No rim court has ever ruled on the point.",
+    "the_untested_question": "The Article says the Wardenry shall pay 'the finder'. It has never been invoked where the finder was himself a Warden. If Denet Rasca is the finder, the Wardenry owes itself, and he has standing inside the institution that no outsider has ever had. Nobody at Bell Harrow knows what that means, including the people who will invoke it.",
+    "what_it_permits": "Sealing the ground about the water and holding it against all comers — including the finder — for as long as the hazard is 'under survey'. In practice: post wardens, cap or fence the water, and exclude everyone from the site.",
+    "who_may_invoke_the_fourth": "A Warden of the Third Rank or above, in person. The declaration must be spoken aloud on the ground itself, before two witnesses who can be named, and entered on the roll at Bell Harrow within forty days. It cannot be declared by letter, by proxy, or from the rim — somebody of rank has to physically stand on the site, which at the centre means eight hundred miles of travelling to say one sentence."
+  },
+  "category_id": "7a510783-2fb6-426d-988b-17301e178c5b",
+  "id": "99410f1a-ee57-4e5d-837f-74c4da943fe2",
+  "name": "The Sealing of the Roadwarden Statute",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Eleven route-keepers and two rim-city councils met at Bell Harrow and wrote down what had until then been custom: who may cross, who carries water, and who answers when a crossing is lost. The document they sealed created the Wardenry in the act of describing it, and the calendar has been counted from it ever since. It has been amended exactly once, in RR 167, and that amendment is the one that matters now.",
+  "tags": [
+    "history",
+    "law",
+    "foundational",
+    "plot-critical",
+    "statute"
+  ]
+}

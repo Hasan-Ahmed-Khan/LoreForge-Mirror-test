@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 19,
+    "fears": "being sent back rim-side as surplus",
+    "no_family_on_the_road": true,
+    "origin": "rim-side, Bell Harrow tenements",
+    "role": "apprentice caravanner",
+    "tell": "repeats an instruction back verbatim before she obeys it",
+    "voice": "questions, too many words, then a bad imitation of Ysoly's clipped register when she remembers to try",
+    "wants": "to be given a real charge of her own"
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "000ddb21-9cf8-47c2-a0de-c9154b0eb1c9",
+  "name": "Hanei",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Ysoly's apprentice, nineteen, rim-born and on her first crossing; she has never in her life seen water whose far side she could not see. She works harder than the job needs because she has worked out that competence is the only thing on a caravan that cannot be taken back, and she is terrified of being sent home at the first well as surplus. She asks too many questions and is beginning to notice which ones Ysoly does not answer.",
+  "tags": [
+    "protagonist",
+    "caravan",
+    "apprentice",
+    "bell-harrow",
+    "pov"
+  ]
+}

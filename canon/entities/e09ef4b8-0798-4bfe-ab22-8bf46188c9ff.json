@@ -1,0 +1,64 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Geology"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      },
+      {
+        "text": "",
+        "title": "Land Use"
+      },
+      {
+        "text": "",
+        "title": "Economy"
+      },
+      {
+        "text": "",
+        "title": "Demographics"
+      },
+      {
+        "text": "",
+        "title": "Security"
+      }
+    ],
+    "extent": "~40 square miles of fused salt, in sheets, blisters and ridges",
+    "features": [
+      "green-black glass sheets that ring underfoot",
+      "blister-domes, some man-high, hollow and thin-walled",
+      "the detour: the Road's only bend, added a century after the survey"
+    ],
+    "hazards": [
+      "cuts hide, hoof and boot; a team driven onto it is lamed in an hour",
+      "lightning walks it every summer - it is still being made",
+      "no shade, no water, no landmarks once you are in it"
+    ],
+    "position": "~2 days east of the Dry Ferry; the beacon line detours 1.5 days around its north edge",
+    "sensory": [
+      "glass ringing underfoot",
+      "bottle-green light",
+      "ozone after a storm"
+    ],
+    "type": "hazard / natural feature",
+    "uses": [
+      "saltglass shards are cut for eye-slits and lamp lenses at Bell Harrow",
+      "a shortcut across it saves 3 days and has never once been worth it"
+    ]
+  },
+  "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "id": "e09ef4b8-0798-4bfe-ab22-8bf46188c9ff",
+  "name": "The Glass Lees",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Two days east of the Dry Ferry the crust changes colour and then stops being crust: forty square miles of saltglass, fused green-black in sheets and blisters where lightning walks the plain every summer and has done for two hundred years. It rings underfoot like a struck pot and it cuts hide, hoof and boot, so nothing crosses it and the beacon line goes around. Cut a shard and hold it up and the whole plain goes the colour of a bottle.",
+  "tags": [
+    "hazard",
+    "natural-feature",
+    "off-road",
+    "saltglass"
+  ]
+}

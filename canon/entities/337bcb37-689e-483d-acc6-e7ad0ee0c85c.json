@@ -1,0 +1,74 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Geology"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      },
+      {
+        "text": "",
+        "title": "Land Use"
+      },
+      {
+        "text": "",
+        "title": "Economy"
+      },
+      {
+        "text": "",
+        "title": "Demographics"
+      },
+      {
+        "text": "",
+        "title": "Security"
+      }
+    ],
+    "authority": "Roadwarden licence office; a Salt Assembly counting-house on the quay",
+    "economy": [
+      "salt kilning",
+      "caravan outfitting",
+      "hide and rope",
+      "licences"
+    ],
+    "features": [
+      "the stepped quays - seven terraces of the old shoreline, cut for ships",
+      "the salt kilns on the third step, banked but never out",
+      "the harrow tower and its bell, rung once per wagon outbound",
+      "the weighbridge, where water is weighed and licensed",
+      "the hide market under the second step, out of the smoke"
+    ],
+    "population": "~40,000",
+    "position": "north rim of the Meniscus; the northern head of the Salt Road",
+    "sensory": [
+      "kiln smoke",
+      "scorched brine",
+      "wet hide",
+      "tallow",
+      "the bell"
+    ],
+    "travel_days": {
+      "Sixty Wells": 6,
+      "Tallow Reach": 41,
+      "the Centre": 20,
+      "the Dry Ferry": 13,
+      "the Kell": 9
+    },
+    "type": "rim-city",
+    "water": "cistern-fed from the north scarp; rationed in high summer, but real"
+  },
+  "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "id": "337bcb37-689e-483d-acc6-e7ad0ee0c85c",
+  "name": "Bell Harrow",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The rim-city at the north edge of the Meniscus, built down the old shoreline in stepped quays that once took ships and now take wagons, so the whole town leans out over a sea that is not there. Salt kilns burn day and night on the third step and the smoke lies in the streets, which smell of scorched brine, wet hide and the tallow they grease axles with. This is where a crossing is assembled: teams bought, water weighed, licences stamped, and the bell in the harrow tower rung once for every wagon that goes out.",
+  "tags": [
+    "rim-city",
+    "north-rim",
+    "chapter-1",
+    "departure-point"
+  ]
+}

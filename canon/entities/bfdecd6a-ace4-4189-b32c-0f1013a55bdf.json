@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 44,
+    "allegiance": "Roadwardens",
+    "carries": "the crossing seal",
+    "fears": "an order she cannot square with the statute she believes in",
+    "knows": "Denet Rasca, eleven years",
+    "origin": "Roadwarden barracks, rim-city",
+    "role": "Roadwarden outrider and licensing officer",
+    "voice": "formal, statute-quoting, no small talk; recites the clause first and explains it only if asked",
+    "wants": "the law to be enough"
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "bfdecd6a-ace4-4189-b32c-0f1013a55bdf",
+  "name": "Iseul Fane",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Roadwarden outrider, forty-four, who carries the seal that makes a crossing legal and rides ahead of the trains to prove it. She believes salt law is the only reason the plain has not eaten everyone on it, and she can quote the statutes without looking them up, which she does when she is unsure. She has known Denet Rasca eleven years and considers him a colleague right up to the moment he is not.",
+  "tags": [
+    "roadwarden",
+    "supporting",
+    "law",
+    "opposition"
+  ]
+}

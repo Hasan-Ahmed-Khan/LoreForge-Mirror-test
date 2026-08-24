@@ -1,0 +1,37 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 61,
+    "crossings": 31,
+    "fears": "that abundance would make her worthless",
+    "origin": "Bell Harrow; came out on the salt at fourteen",
+    "role": "water-master (rationing and barrels)",
+    "tell": "says the ration figure aloud each dawn before anyone asks",
+    "voice": "dry, numerical, superstitious about waste; speaks in weights and days and will correct you on both",
+    "wants": "to finish her last crossings the way she began them"
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "652d3d2b-e0e7-4a68-9795-ddccb7bfda74",
+  "name": "Sabra Onn",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Water-master of Ysoly's train, sixty-one, and the oldest hand on it; she measures out every ration by weight and has not lost a traveller to thirst in thirty-one crossings, a fact she states rather than boasts. Her whole discipline is scarcity, so a sea under the plain does not read to her as deliverance but as the end of the only expertise she has. She counts aloud and considers spilled water something close to a sin.",
+  "tags": [
+    "caravan",
+    "supporting",
+    "bell-harrow"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Properties"
+      }
+    ],
+    "author": "Denet Rasca",
+    "contents": "forty-one leaves — levels, boring logs, brine assays, and one folded water-table map of the centre",
+    "opened": "chapter 2, at Sixty Wells — once, and only once",
+    "physical": "oiled hide, waxed thread, corners worn pale from being carried against a body; under two pounds",
+    "present_day": "RR 203",
+    "seals": "two, both struck and both single-use: the College's lead seal and Denet Rasca's personal seal",
+    "the_catch": "a fair copy was entered on the College roll at the far rim before the packet was sealed, per College house rule. Burning this packet destroys the proof in hand, not the finding.",
+    "what_the_statute_cannot_do": "the Fourth Article seizes ground and water. It has no reach over paper. The packet is property and stays with whoever is holding it, even on sealed ground."
+  },
+  "category_id": "4a25a123-bd3d-4465-9ce3-f3a7dc5cd717",
+  "id": "427d8b1c-3c33-4314-b21f-ef2ebc30c9b4",
+  "name": "The Sealed Survey Packet",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "A hide-wrapped bundle the size of a folded coat, stitched shut and sealed twice — once with the College of Levels' lead seal and once with Denet Rasca's own — holding the levels, the boring logs and the water-table map for the plain's centre. It weighs under two pounds and is the heaviest thing in any wagon it rides in. Both seals are single-strike: the packet can be opened exactly once, and after that it cannot be made to look unopened.",
+  "tags": [
+    "plot-critical",
+    "document",
+    "survey"
+  ]
+}

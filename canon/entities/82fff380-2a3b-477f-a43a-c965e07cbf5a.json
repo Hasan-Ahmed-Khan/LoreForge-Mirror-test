@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Structure"
+      },
+      {
+        "text": "",
+        "title": "History"
+      },
+      {
+        "text": "",
+        "title": "Relations"
+      }
+    ],
+    "authority": "the Roadwarden Statute — four articles; see the lore-event 'The Sealing of the Roadwarden Statute' for the text",
+    "blind_spot": "it reads every threat to the Road as a threat to the people on it, and is sincere about this",
+    "founded": "RR 1 (two centuries before the present, RR 203)",
+    "internal_fracture": "the surveyors' branch is certified by the College of Levels and sealed by it, so a Warden-surveyor answers to two bodies with one seal — which is how the water survey came to exist at all",
+    "leverage": "no caravan crosses unlicensed, and no well within the bounds opens without a Warden to open it",
+    "present_day": "RR 203",
+    "ranks": "First through Seventh. A Warden of the Third Rank or above may declare a hazard under the Fourth Article; below the Third, they may only inspect and report.",
+    "revenue": "licence fees and well-tolls, assessed and paid in salt",
+    "seat": "Bell Harrow"
+  },
+  "category_id": "adac2ac0-62aa-4cf7-bb5c-ea28795a985a",
+  "id": "82fff380-2a3b-477f-a43a-c965e07cbf5a",
+  "name": "The Roadwardens",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The licensing body for every crossing of the Meniscus, seated at Bell Harrow and chartered by the statute it wrote for itself in RR 1. It surveys the routes, fires the licence tiles, opens and closes the wells, and takes a cut of every load that moves between the rim-cities. Two centuries of doing this competently have left it unable to imagine a Meniscus that does not need crossing.",
+  "tags": [
+    "institution",
+    "law",
+    "licensing",
+    "antagonist-adjacent"
+  ]
+}

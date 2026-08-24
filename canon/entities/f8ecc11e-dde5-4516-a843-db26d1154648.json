@@ -1,0 +1,40 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 37,
+    "allegiance": "Roadwardens, provisionally",
+    "authored": "the water survey",
+    "fears": "that he is right",
+    "origin": "raised in Roadwarden service; no home rim-city he will name",
+    "role": "Roadwarden surveyor",
+    "tell": "checks his own arithmetic in the margin of any paper to hand",
+    "voice": "careful, qualified, retreats into figures when pressed; apologises in the middle of sentences and finishes them anyway",
+    "wants": "the survey on the record without having to be the one who put it there"
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "f8ecc11e-dde5-4516-a843-db26d1154648",
+  "name": "Denet Rasca",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Roadwarden surveyor, thirty-seven, and the author of the water survey -- he put the instruments down at the plain's centre himself and has been carrying the numbers, unpublished, ever since. He believes a measurement belongs on the record and cannot make himself say so out loud, because he has spent fourteen years licensing the crossings his own findings would end. He is travelling with Ysoly's caravan and has not told her why.",
+  "tags": [
+    "protagonist",
+    "roadwarden",
+    "surveyor",
+    "survey",
+    "pov"
+  ]
+}

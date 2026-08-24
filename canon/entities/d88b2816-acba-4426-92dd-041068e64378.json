@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 47,
+    "correspondent_of": "Oreth Vask",
+    "fears": "holding warehouses of a commodity that stopped being law",
+    "holds": "Pell Corrow's debt",
+    "origin": "Bell Harrow, third-generation broker",
+    "role": "salt broker and cargo factor",
+    "tell": "repeats a price back slightly lower, as though she misheard",
+    "voice": "fast, transactional, ends sentences on a number; interrupts with counter-offers",
+    "wants": "to be a month ahead of everyone else"
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "d88b2816-acba-4426-92dd-041068e64378",
+  "name": "Thecla Bram",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Salt broker at Bell Harrow, forty-seven, who buys a crossing's cargo before it has left the yard and sells the same tonnage twice on the strength of her reading of the weather. She corresponds with Oreth Vask and is nobody's creature: the Assembly is simply her largest counterparty. She hears everything that comes off the plain first, and prices it before she decides whether she believes it.",
+  "tags": [
+    "bell-harrow",
+    "broker",
+    "supporting",
+    "assembly-adjacent"
+  ]
+}

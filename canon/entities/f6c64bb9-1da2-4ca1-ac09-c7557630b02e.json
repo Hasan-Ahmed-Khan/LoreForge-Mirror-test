@@ -1,0 +1,26 @@
+{
+  "attributes": {
+    "commissioned_by": "the Wardenry, as a routine re-levelling after crust movement. Nobody asked for borings.",
+    "filed": "a fair copy entered on the College roll at the far rim before the packet was sealed, per College house rule — so the finding survives the packet",
+    "finding": "fresh water under the centre of the plain, at a depth ordinary gear can reach",
+    "period": "RR 201 to RR 203 — two summers. The packet was sealed in the spring of RR 203.",
+    "present_day": "RR 203",
+    "still_unopened": "the packet itself has not been opened by anyone, at Bell Harrow or anywhere else",
+    "surveyor": "Denet Rasca — Warden-surveyor, College-sealed",
+    "what_the_survey_could_not_say": "how much of it there is. Borings give you a depth and a quality, not a volume. Reachable is not the same as plentiful, and the packet does not claim it is.",
+    "who_knows": "Denet. The College clerk who took the entry. Oreth Vask, who has known about a month by way of the Assembly's own channels and not by way of Denet.",
+    "why_it_starts_the_book": "a survey is not a rumour. A rumour can be waited out; a survey has to be answered."
+  },
+  "category_id": "7a510783-2fb6-426d-988b-17301e178c5b",
+  "id": "f6c64bb9-1da2-4ca1-ac09-c7557630b02e",
+  "name": "The Levelling of the Centre",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The Wardenry commissioned a routine re-levelling of the centre routes after two seasons of crust movement and sent Denet Rasca, who was thorough. Across two summers he ran borings nobody had asked for, read them against a College water-glass, and found fresh water under the middle of the plain at a depth ordinary gear could reach. He entered the fair copy on the College roll in the spring of RR 203, sealed the packet, and has been carrying it since without deciding what it is for.",
+  "tags": [
+    "history",
+    "recent",
+    "survey",
+    "plot-critical"
+  ]
+}

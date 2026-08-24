@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Structure"
+      },
+      {
+        "text": "",
+        "title": "History"
+      },
+      {
+        "text": "",
+        "title": "Relations"
+      }
+    ],
+    "founded": "RR 88",
+    "function": "trains, certifies and holds the seals of surveyors; keeps the master level and the reference brines",
+    "house_rule": "a level is a level and the ground does not care who owns it; a finding is entered on the College roll before it is shown to the body that commissioned it",
+    "instruments": "the water-glass, the chain, the master level at the far rim",
+    "notable_member": "Denet Rasca — Warden-surveyor, College-sealed",
+    "present_day": "RR 203",
+    "relationship_to_wardens": "the Wardenry cannot lawfully survey without College-sealed surveyors, and the College cannot reach the plain without the Wardenry's licences. Neither can do without the other and neither likes it.",
+    "seat": "the far rim, opposite Bell Harrow",
+    "weakness": "no money, no wagons, no enforcement — it can prove a thing to the last decimal and do absolutely nothing about it"
+  },
+  "category_id": "adac2ac0-62aa-4cf7-bb5c-ea28795a985a",
+  "id": "99c7ba72-fffc-430a-8b96-00c0eea652d9",
+  "name": "The College of Levels",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The chartered surveyors' college on the far rim, which trains and seals every person permitted to set an instrument on the Meniscus and put a number to what they see. It certifies the Wardenry's surveyors but does not employ them, so a Warden-surveyor carries two loyalties and one seal. Its house rule — that findings are entered on the roll before they are shown to anyone — is the reason a copy of the water survey exists eight hundred miles from the packet.",
+  "tags": [
+    "institution",
+    "scholarly",
+    "survey",
+    "neutral"
+  ]
+}

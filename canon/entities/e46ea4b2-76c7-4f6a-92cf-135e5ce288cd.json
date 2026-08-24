@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Structure"
+      },
+      {
+        "text": "",
+        "title": "History"
+      },
+      {
+        "text": "",
+        "title": "Relations"
+      }
+    ],
+    "chartered": "RR 47",
+    "exposure": "its whole book is priced in salt; a working well at the centre makes forward salt worthless and the Assembly insolvent on paper before anyone has drunk anything",
+    "factor_at_bell_harrow": "Oreth Vask",
+    "instrument": "the Compact of Weights — fixed the assay and the measure of salt, and made the Assembly the body that assesses its price at both rims",
+    "method": "buy first, bury second — it prefers to own a thing before it destroys it, because owning it makes the destruction lawful",
+    "present_day": "RR 203",
+    "relationship_to_wardens": "pays the licence fees without complaint and expects the Statute to protect the price of salt in return",
+    "seat": "the rim-city counting houses; a resident factor at each rim port",
+    "what_it_sells": "crossing shares, ballast contracts, forward salt against next season's assay"
+  },
+  "category_id": "adac2ac0-62aa-4cf7-bb5c-ea28795a985a",
+  "id": "e46ea4b2-76c7-4f6a-92cf-135e5ce288cd",
+  "name": "The Salt Assembly",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "A syndicate of rim-city houses that buys, sells and underwrites crossings: it owns no wagons, it owns the right to what the wagons carry. Chartered in RR 47 under the Compact of Weights, which fixed the assay of salt and made the Assembly the body that sets its price. Every contract on its books is denominated in salt, which means fresh water at the centre does not damage the Assembly, it erases it.",
+  "tags": [
+    "institution",
+    "commerce",
+    "economy",
+    "antagonist-adjacent"
+  ]
+}

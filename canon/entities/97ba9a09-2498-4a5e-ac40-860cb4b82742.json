@@ -1,0 +1,28 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Properties"
+      }
+    ],
+    "faces": "heads / water drawn / ballast / debt",
+    "kept_by": "Ysoly Tamm — cut at dusk, every dusk, never delegated",
+    "legal_standing": "accepted at the rim weighbridges as a book of account under the Compact of Weights",
+    "material": "rim-oak, four-sided, about a yard long, black with handling",
+    "present_day": "RR 203",
+    "vulnerability": "one stick, no copy. Split or burned, the caravan's debts and its wages both vanish at once — which is not symmetrical, because the debts are remembered at Bell Harrow and the wages are not remembered anywhere.",
+    "what_it_records": "wages owed, water drawn per head, ballast dumped, and the death-share owed to a hand's family"
+  },
+  "category_id": "4a25a123-bd3d-4465-9ce3-f3a7dc5cd717",
+  "id": "97ba9a09-2498-4a5e-ac40-860cb4b82742",
+  "name": "Ysoly's Tally-Stick",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "A yard of rim-oak, four-sided, gone black with thirty years of handling and notched along every face — one face for heads, one for water drawn, one for ballast, one for what is owed and to whom. Ysoly cuts it herself at dusk and nobody else touches it; it is the caravan's only ledger and the only thing on the plain that records what a hand's family is owed if the hand does not come back. The rim weighbridges accept it as good as a book, which means anyone who splits it splits the record.",
+  "tags": [
+    "object",
+    "ledger",
+    "protagonist-side"
+  ]
+}

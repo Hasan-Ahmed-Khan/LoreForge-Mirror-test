@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 58,
+    "allegiance": "Salt Assembly",
+    "fears": "presiding over the end of it",
+    "method": "buy it first; bury it second",
+    "origin": "rim-city Assembly house; three generations of factors before him",
+    "role": "factor for the Salt Assembly",
+    "tell": "writes down what you said while you are still saying it",
+    "voice": "warm, unhurried, institutional 'we'; never raises his voice and never finishes a threat, because the unfinished ones work better",
+    "wants": "the Assembly to outlive him unchanged"
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "c7703f5b-1bea-4f61-b6bc-902ce4555b51",
+  "name": "Oreth Vask",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Factor for the Salt Assembly, fifty-eight, the man who buys and sells the crossings and keeps the ledger that decides which caravans exist next season. He is courteous to everyone, remembers the names of drovers' children, and would ruin any of them slowly and on paper to keep the institution standing. What frightens him is not the water but being the factor of record on the day the Road stops mattering.",
+  "tags": [
+    "antagonist",
+    "assembly",
+    "factor",
+    "opposition"
+  ]
+}

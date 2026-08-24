@@ -1,0 +1,70 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Geology"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      },
+      {
+        "text": "",
+        "title": "Land Use"
+      },
+      {
+        "text": "",
+        "title": "Economy"
+      },
+      {
+        "text": "",
+        "title": "Demographics"
+      },
+      {
+        "text": "",
+        "title": "Security"
+      }
+    ],
+    "authority": "a Roadwarden relay; the Salt Assembly keeps a factor's room above the depot",
+    "features": [
+      "the old ferry jetty - cut stone, the only rock for 200 miles",
+      "the rock cistern in the island's spine, brackish, unreliable",
+      "the hide-roofed depot: rope, spare axles, tallow, salt-fodder",
+      "the walled pound for teams",
+      "the mooring rings, still bolted to the jetty, used now to tie awnings"
+    ],
+    "population": "~50 permanent; a hundred more whenever two crossings meet",
+    "position": "on the beacon line, 13 days (~250 miles) south of Bell Harrow",
+    "role": "the meeting point: northbound and southbound crossings lie up here, so news, mail and contracts change hands here or nowhere",
+    "sensory": [
+      "hot cut stone",
+      "rope",
+      "tallow",
+      "brackish water",
+      "voices after weeks of none"
+    ],
+    "travel_days": {
+      "Bell Harrow": 13,
+      "Sixty Wells": 7,
+      "Tallow Reach": 28,
+      "the Centre": 7,
+      "the Glass Lees": 2,
+      "the Kell": 4
+    },
+    "type": "waystation / depot",
+    "water": "the rock cistern only - brackish, and in a dry season the depot sells it by weight at four times Bell Harrow prices"
+  },
+  "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "id": "20a874df-dc83-4081-a78f-211ae4df33ff",
+  "name": "The Dry Ferry",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "A waystation built on the stone jetty of a drowned island, thirteen days out, where a ferry crossed the Meniscus when the Meniscus was water. The jetty is the only rock on the plain and everything leans on it: a hide-roofed depot, a walled pound, a cistern cut into the island's spine that yields brackish water in a bad year and enough in a good one. It is where crossings meet coming and going, which makes it the plain's only market, its only rumour-mill, and the only place between the rims where a man can be found who did not want to be.",
+  "tags": [
+    "waystation",
+    "on-the-road",
+    "chapter-3",
+    "meeting-point"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Affiliations"
+      },
+      {
+        "text": "",
+        "title": "Sociology"
+      },
+      {
+        "text": "",
+        "title": "Journey"
+      }
+    ],
+    "age": 54,
+    "carries": "a licence book gone soft at the corners from salt",
+    "fears": "being made obsolete before she chooses to stop",
+    "origin": "Bell Harrow",
+    "role": "caravan master",
+    "tell": "counts water barrels twice, always, even when she has just counted them",
+    "voice": "clipped, concrete, allergic to ceremony; says 'we' when she means an order, and answers questions with instructions",
+    "wants": "one last clean crossing, then out",
+    "years_on_the_plain": 30
+  },
+  "category_id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "id": "0acd7186-8bd1-4e10-b813-fd61f7b99aac",
+  "name": "Ysoly Tamm",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Caravan master out of Bell Harrow, fifty-four, thirty years on the salt and one crossing short of the retirement the Assembly owes her. She can price a load, a route and a person in the same breath, and she runs her train on the assumption that the plain is indifferent rather than cruel. What she wants is a clean last crossing and a roof that does not move; what she is afraid of is finding out that the Road stopped needing her before she stopped needing it.",
+  "tags": [
+    "protagonist",
+    "caravan",
+    "bell-harrow",
+    "pov"
+  ]
+}
