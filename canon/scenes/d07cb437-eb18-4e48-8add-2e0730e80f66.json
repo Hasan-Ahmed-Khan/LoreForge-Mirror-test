@@ -1,0 +1,27 @@
+{
+  "blueprint": {
+    "context": "The ending of the crossing.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [],
+    "objectives": [
+      "Establish the clock",
+      "Put the tile in someone's hand"
+    ],
+    "setting": {
+      "description": "The centre of the plain, or the far rim."
+    },
+    "time_of_day": ""
+  },
+  "chapter_id": "e73f70f0-c366-41b5-8753-86f77ec8339a",
+  "id": "d07cb437-eb18-4e48-8add-2e0730e80f66",
+  "in_world_time": "",
+  "sort_order": 0,
+  "status": "drafted",
+  "synopsis": "The seal is entered, or it is not.",
+  "title": "The Forty Days",
+  "word_count": 7
+}
