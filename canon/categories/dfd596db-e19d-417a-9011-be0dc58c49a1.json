@@ -1,0 +1,81 @@
+{
+  "icon": "⌂",
+  "id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "is_seed": true,
+  "name": "Places",
+  "schema": [
+    {
+      "key": "kind",
+      "label": "Kind",
+      "options": [
+        "city",
+        "town",
+        "village",
+        "ruin",
+        "wilderness",
+        "landmark",
+        "realm"
+      ],
+      "type": "select"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "text"
+    },
+    {
+      "key": "population",
+      "label": "Population",
+      "type": "number"
+    },
+    {
+      "key": "is_within",
+      "label": "Is within",
+      "ref_category": "places",
+      "type": "entity_ref"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "longtext"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "type": "longtext"
+    },
+    {
+      "key": "ruler",
+      "label": "Ruler / authority",
+      "ref_category": "characters",
+      "type": "entity_ref"
+    },
+    {
+      "key": "residents",
+      "label": "Notable residents",
+      "ref_category": "characters",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "factions_present",
+      "label": "Factions present",
+      "ref_category": "factions",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "_sections",
+      "label": "Details",
+      "options": [
+        "Geology",
+        "Ecology",
+        "Land Use",
+        "Economy",
+        "Demographics",
+        "Security"
+      ],
+      "type": "sections"
+    }
+  ],
+  "slug": "places",
+  "sort_order": 1
+}

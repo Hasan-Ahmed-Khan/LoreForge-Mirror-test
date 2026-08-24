@@ -1,0 +1,76 @@
+{
+  "icon": "🗡",
+  "id": "4a25a123-bd3d-4465-9ce3-f3a7dc5cd717",
+  "is_seed": true,
+  "name": "Items",
+  "schema": [
+    {
+      "key": "kind",
+      "label": "Kind",
+      "options": [
+        "weapon",
+        "armor",
+        "relic",
+        "tool",
+        "consumable",
+        "treasure"
+      ],
+      "type": "select"
+    },
+    {
+      "key": "rarity",
+      "label": "Rarity",
+      "options": [
+        "common",
+        "uncommon",
+        "rare",
+        "legendary",
+        "unique"
+      ],
+      "type": "select"
+    },
+    {
+      "key": "condition",
+      "label": "Condition",
+      "type": "text"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "longtext"
+    },
+    {
+      "key": "history",
+      "label": "History",
+      "type": "longtext"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "ref_category": "places",
+      "type": "entity_ref"
+    },
+    {
+      "key": "owner",
+      "label": "Current owner",
+      "ref_category": "characters",
+      "type": "entity_ref"
+    },
+    {
+      "key": "uses",
+      "label": "Uses / powers",
+      "ref_category": "powers",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "_sections",
+      "label": "Details",
+      "options": [
+        "Properties"
+      ],
+      "type": "sections"
+    }
+  ],
+  "slug": "items",
+  "sort_order": 2
+}

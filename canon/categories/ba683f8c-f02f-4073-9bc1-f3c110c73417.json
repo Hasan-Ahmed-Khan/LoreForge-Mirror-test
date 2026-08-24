@@ -1,0 +1,52 @@
+{
+  "icon": "✦",
+  "id": "ba683f8c-f02f-4073-9bc1-f3c110c73417",
+  "is_seed": true,
+  "name": "Powers",
+  "schema": [
+    {
+      "key": "source",
+      "label": "Source",
+      "type": "text"
+    },
+    {
+      "key": "rules",
+      "label": "Rules & limits",
+      "type": "longtext"
+    },
+    {
+      "key": "cost",
+      "label": "Cost",
+      "type": "longtext"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "longtext"
+    },
+    {
+      "key": "pioneers",
+      "label": "Pioneers",
+      "ref_category": "characters",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "users",
+      "label": "Known users",
+      "ref_category": "characters",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "_sections",
+      "label": "Details",
+      "options": [
+        "Limitations",
+        "Impact",
+        "History"
+      ],
+      "type": "sections"
+    }
+  ],
+  "slug": "powers",
+  "sort_order": 3
+}

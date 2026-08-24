@@ -1,0 +1,104 @@
+{
+  "icon": "◍",
+  "id": "e240158a-1f76-4d5d-9c27-3acd61d0dacc",
+  "is_seed": true,
+  "name": "Characters",
+  "schema": [
+    {
+      "key": "role",
+      "label": "Role",
+      "type": "text"
+    },
+    {
+      "key": "title",
+      "label": "Title / rank",
+      "type": "text"
+    },
+    {
+      "key": "status",
+      "label": "Status",
+      "options": [
+        "alive",
+        "dead",
+        "unknown"
+      ],
+      "type": "select"
+    },
+    {
+      "key": "age",
+      "label": "Age",
+      "type": "number"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "text"
+    },
+    {
+      "key": "appearance",
+      "label": "Appearance",
+      "type": "longtext"
+    },
+    {
+      "key": "personality",
+      "label": "Personality",
+      "type": "longtext"
+    },
+    {
+      "key": "positive_traits",
+      "label": "Positive traits",
+      "type": "longtext"
+    },
+    {
+      "key": "negative_traits",
+      "label": "Negative traits",
+      "type": "longtext"
+    },
+    {
+      "key": "backstory",
+      "label": "Backstory",
+      "type": "longtext"
+    },
+    {
+      "key": "motivation",
+      "label": "Motivations",
+      "type": "longtext"
+    },
+    {
+      "key": "birthplace",
+      "label": "Birthplace",
+      "ref_category": "places",
+      "type": "entity_ref"
+    },
+    {
+      "key": "home",
+      "label": "Residence",
+      "ref_category": "places",
+      "type": "entity_ref"
+    },
+    {
+      "key": "member_of",
+      "label": "Member of",
+      "ref_category": "factions",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "owns",
+      "label": "Owns",
+      "ref_category": "items",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "_sections",
+      "label": "Details",
+      "options": [
+        "Affiliations",
+        "Sociology",
+        "Journey"
+      ],
+      "type": "sections"
+    }
+  ],
+  "slug": "characters",
+  "sort_order": 0
+}

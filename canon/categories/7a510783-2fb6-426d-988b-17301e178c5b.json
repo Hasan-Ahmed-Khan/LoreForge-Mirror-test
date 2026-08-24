@@ -1,0 +1,36 @@
+{
+  "icon": "❧",
+  "id": "7a510783-2fb6-426d-988b-17301e178c5b",
+  "is_seed": true,
+  "name": "Lore Events",
+  "schema": [
+    {
+      "key": "when",
+      "label": "When (in-world)",
+      "type": "text"
+    },
+    {
+      "key": "where",
+      "label": "Where",
+      "ref_category": "places",
+      "type": "entity_ref"
+    },
+    {
+      "key": "involved",
+      "label": "Involved",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "description",
+      "label": "What happened",
+      "type": "longtext"
+    },
+    {
+      "key": "consequences",
+      "label": "Consequences",
+      "type": "longtext"
+    }
+  ],
+  "slug": "lore-events",
+  "sort_order": 6
+}

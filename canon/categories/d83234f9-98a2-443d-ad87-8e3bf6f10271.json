@@ -1,0 +1,51 @@
+{
+  "icon": "🐉",
+  "id": "d83234f9-98a2-443d-ad87-8e3bf6f10271",
+  "is_seed": true,
+  "name": "Beasts",
+  "schema": [
+    {
+      "key": "habitat",
+      "label": "Habitat",
+      "type": "text"
+    },
+    {
+      "key": "threat",
+      "label": "Threat level",
+      "options": [
+        "harmless",
+        "dangerous",
+        "deadly",
+        "legendary"
+      ],
+      "type": "select"
+    },
+    {
+      "key": "description",
+      "label": "Description",
+      "type": "longtext"
+    },
+    {
+      "key": "weakness",
+      "label": "Weakness",
+      "type": "longtext"
+    },
+    {
+      "key": "found_in",
+      "label": "Found in",
+      "ref_category": "places",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "_sections",
+      "label": "Details",
+      "options": [
+        "Behavior",
+        "Ecology"
+      ],
+      "type": "sections"
+    }
+  ],
+  "slug": "beasts",
+  "sort_order": 5
+}

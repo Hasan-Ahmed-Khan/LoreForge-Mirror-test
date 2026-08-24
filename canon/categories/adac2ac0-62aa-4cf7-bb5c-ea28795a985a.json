@@ -1,0 +1,48 @@
+{
+  "icon": "⚑",
+  "id": "adac2ac0-62aa-4cf7-bb5c-ea28795a985a",
+  "is_seed": true,
+  "name": "Factions",
+  "schema": [
+    {
+      "key": "goal",
+      "label": "Goal",
+      "type": "longtext"
+    },
+    {
+      "key": "methods",
+      "label": "Methods",
+      "type": "longtext"
+    },
+    {
+      "key": "leader",
+      "label": "Leader",
+      "ref_category": "characters",
+      "type": "entity_ref"
+    },
+    {
+      "key": "seat",
+      "label": "Seat of power",
+      "ref_category": "places",
+      "type": "entity_ref"
+    },
+    {
+      "key": "members",
+      "label": "Notable members",
+      "ref_category": "characters",
+      "type": "multi_entity_ref"
+    },
+    {
+      "key": "_sections",
+      "label": "Details",
+      "options": [
+        "Structure",
+        "History",
+        "Relations"
+      ],
+      "type": "sections"
+    }
+  ],
+  "slug": "factions",
+  "sort_order": 4
+}
