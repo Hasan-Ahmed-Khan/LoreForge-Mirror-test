@@ -1,0 +1,22 @@
+{
+  "blueprint": {
+    "context": "",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [],
+    "objectives": [],
+    "setting": {},
+    "time_of_day": ""
+  },
+  "chapter_id": "536e464b-58a6-4c7f-af12-d0f6762055d7",
+  "id": "6e924de9-8aad-42df-bf9c-64e13f9ffe9a",
+  "in_world_time": "",
+  "sort_order": 0,
+  "status": "outline",
+  "synopsis": "",
+  "title": "Smoke Scene",
+  "word_count": 4
+}
