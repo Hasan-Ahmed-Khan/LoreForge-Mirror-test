@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The Third Article requires a crossing to carry two gallons the head the day and in the same four lines lets the Wardenry ration the wells below that. The statute has no figure at all for draught animals. A joint tile with two hundred people is four days behind, which is the shape of RR 166, and Warden Aske knows it.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "law",
+      "money",
+      "attrition",
+      "cold arithmetic"
+    ],
+    "objectives": [
+      "Read the Third Article against itself and let Iseul say the part that has no answer",
+      "Argue about money, water and law in the same breath, with the string's half-gallon as the stake",
+      "Give Aske a defensible reason for rationing that Sabra cannot refute and will not accept",
+      "Reverse the Bell Harrow bargain: Ysoly buys more than her water-master will sanction",
+      "Fix the consequence in salt — twenty-two blocks, personally owed, entered for the Bell Harrow roll"
+    ],
+    "setting": {
+      "description": "The Wardenry post's front room: table, bench, toll-book, a strongbox with two locks in the floor, and the Compact's ten-pound iron cylinder chained to a ring in the wall. Then the beam, and the store behind the post, and the tailgate of the first wagon."
+    },
+    "time_of_day": "noon to last light, seventh day"
+  },
+  "chapter_id": "ebb35b40-b0e1-4a67-8f5a-cc5b5da845f5",
+  "id": "62cb805c-1963-407d-a8ef-be81869035ee",
+  "in_world_time": "",
+  "sort_order": 2,
+  "status": "drafted",
+  "synopsis": "In the post's front room the Third Article is read aloud, the ration is set at one gallon the head the day, and the forty-one hask are not heads. Ysoly buys two hundred and twenty gallons at a block the hundredweight, pays in Assembly ballast she does not own, and cuts twenty-two onto the debt face of the tally-stick.",
+  "title": "A Block the Hundredweight",
+  "word_count": 1096
+}

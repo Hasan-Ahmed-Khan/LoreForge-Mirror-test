@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Day 6 of 41 out of Bell Harrow. The crossing arrives with 170 of the 425 gallons it loaded. Sabra Onn has not taken the taster's board's word for anything since RR 166 and tastes every shaft herself before a barrel goes under it.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "arrival",
+      "disillusion",
+      "vigilance",
+      "sulphur"
+    ],
+    "objectives": [
+      "Land the caravan at Sixty Wells through Hanei's expectation of water and the fact of sixty stone lids",
+      "Establish the taster's board, its nine chalked numbers and Rusk's paid stake in it",
+      "Show Sabra's discipline as practice rather than backstory, and put Hanei on the rope for the night",
+      "Set the water arithmetic that the rest of the chapter argues over",
+      "End on thirty-four without explaining it"
+    ],
+    "setting": {
+      "description": "Sixty Wells at dusk and into the night: a quarter-mile field of sixty stone collars under cracked hide lids, a ring of mud-brick cells and awnings, the walled pound, a two-room Wardenry post. Rope, wet stone, sulphur."
+    },
+    "time_of_day": "sixth evening into full dark"
+  },
+  "chapter_id": "ebb35b40-b0e1-4a67-8f5a-cc5b5da845f5",
+  "id": "8c4573dd-a21f-4e37-b091-a1a4321b62d8",
+  "in_world_time": "",
+  "sort_order": 0,
+  "status": "drafted",
+  "synopsis": "The Tamm Line reaches Sixty Wells on the sixth evening. Hanei finds no water, only sixty capped shafts and a chalked slate. Rusk offers to taste for two blocks and is refused; Sabra Onn works the field alone with a tin cup and stops at thirty-four.",
+  "title": "Sixty Lids",
+  "word_count": 855
+}

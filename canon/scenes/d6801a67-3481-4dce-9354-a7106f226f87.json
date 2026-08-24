@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Both seals are single-strike and there is no entry on the College roll — the packet and the finding are the same object, and it burns. The Fourth Article needs a Warden of the Third Rank standing on the ground and speaking aloud, and Iseul is the only one between the rims.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "irreversible",
+      "confession",
+      "complicity",
+      "lamplight"
+    ],
+    "objectives": [
+      "Open the packet on the page, physically, and make the irreversibility the first thing said",
+      "Have Denet admit authorship as a flat answer to a flat question",
+      "Land the no-fair-copy fact on the one person who keeps a ledger with no copy",
+      "Make Denet name why he picked this line, and let Hanei hear it",
+      "Turn five people into accomplices by having Ysoly say the thing none of them will"
+    ],
+    "setting": {
+      "description": "A mud-brick cell in the ring: bench, lamp, hook, hide across the doorway. Forty-one foxed field sheets laid out under the lamp with two loose discs of lead beside them."
+    },
+    "time_of_day": "the small hours"
+  },
+  "chapter_id": "ebb35b40-b0e1-4a67-8f5a-cc5b5da845f5",
+  "id": "d6801a67-3481-4dce-9354-a7106f226f87",
+  "in_world_time": "",
+  "sort_order": 4,
+  "status": "drafted",
+  "synopsis": "The packet is cut open in Ysoly's cell before Sabra, Hanei and Pell. Forty-one leaves, both seals off the thread, and no fair copy anywhere. Denet admits he wrote it, that he chose the Tamm Line because eleven is the smallest number that gets a wagon to the centre, and that Iseul Fane is the Fourth Article walking. Nobody proposes telling her.",
+  "title": "Forty-One Leaves",
+  "word_count": 1292
+}

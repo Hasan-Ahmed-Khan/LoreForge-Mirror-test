@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The dispute cannot be settled by tasting, because two tasters disagree. Denet has kept the water-glass in its case for six days. The moment he uses it in public he stops being a passenger, and everyone in the field learns that a sealed instrument can say in a minute what a board takes on faith.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "dispute",
+      "instrument",
+      "public proof",
+      "unease"
+    ],
+    "objectives": [
+      "Stage the argument as one mouth against another mouth, with money on both sides of it",
+      "Bring the water-glass out and show exactly how it reads, in front of witnesses",
+      "Let Iseul correct 'sealed' to 'chalked' and say nothing else",
+      "Make the board wrong in both directions so the count survives and the trust does not",
+      "Have Sabra ask what else the glass has been floated against, and let Denet not answer where Ysoly can see it"
+    ],
+    "setting": {
+      "description": "The taster's board and the well field in the ninth hour of the morning; then collar thirty-four and collar fifty-one, with the whole awning stood round a stoneware jar in the glare."
+    },
+    "time_of_day": "mid-morning, seventh day"
+  },
+  "chapter_id": "ebb35b40-b0e1-4a67-8f5a-cc5b5da845f5",
+  "id": "097a5b8b-84a8-4282-8757-9e07956e7a82",
+  "in_world_time": "",
+  "sort_order": 1,
+  "status": "drafted",
+  "synopsis": "Sabra says thirty-four has turned and fifty-one is sweet; Rusk says it is a tongue against nineteen years of chalk. Denet opens the case and floats the College-sealed glass on both. The board is rewritten to the same count and a different nine, and the field goes on ration.",
+  "title": "Thirty-Four and Fifty-One",
+  "word_count": 987
+}

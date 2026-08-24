@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Twenty-two blocks lighter, four days' grace in the butts, fourteen days to the centre and seven to the Dry Ferry. Pell Corrow will reach the Ferry on day thirteen with everything he heard in the cell and a debt at Bell Harrow that news pays down.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "departure",
+      "complicity",
+      "quiet dread",
+      "routine"
+    ],
+    "objectives": [
+      "Make the packet's new condition a piece of craft with a motive behind it",
+      "Pay off chapter one's promise about the seventh morning and give Hanei a real charge",
+      "Keep Sabra's eleven words exactly as they were, and let the reader do the rest",
+      "Show the field refusing the well that a stranger proved",
+      "Send Iseul out in front, ignorant, and end on Ysoly counting butts twice"
+    ],
+    "setting": {
+      "description": "The pound, the tailgate of the fourth wagon, the post wall and the taster's board at first light; then the beacon line running south out of the field."
+    },
+    "time_of_day": "first light, eighth morning"
+  },
+  "chapter_id": "ebb35b40-b0e1-4a67-8f5a-cc5b5da845f5",
+  "id": "7301b939-1f2f-4830-9d5b-acaac19c3ee3",
+  "in_world_time": "",
+  "sort_order": 5,
+  "status": "drafted",
+  "synopsis": "Dawn on the eighth morning. Pell restitches the packet badly on purpose, Hanei is kept and given the pound, Sabra says the ration figure unchanged, Rusk chalks the new nine, and Iseul rides out ahead of a crossing that has decided not to tell her anything.",
+  "title": "The Board at First Light",
+  "word_count": 878
+}
