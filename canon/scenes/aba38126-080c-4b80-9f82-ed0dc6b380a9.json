@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The law scene, and the chapter's decision. The strict reading of the bounds is the escape hatch and it has to be owned and closed here rather than left lying about for chapter five. The fourth proviso is the only limit in the Article with teeth and it rides on a fired tile the size of a palm; Ysoly holds the only one between the rims. Ferrant is the working precedent and the single difference between Ferrant and Ysoly Tamm is that Ferrant had no licence for the ground he stood on.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "law",
+      "decision",
+      "cost",
+      "dread"
+    ],
+    "objectives": [
+      "Have the finder himself prove the site is inside the bounds, out of his own logs, and hate it",
+      "Play Iseul's stamp/seal correction and let the whole crossing hear what it means that she bothered",
+      "Put the fourth proviso and the season clock on the page, spoken aloud on the ground, so chapter five can run on it",
+      "Show Iseul open the waxed sleeve — the thing she has carried four years without needing",
+      "Make Ysoly's ruling a decision about who is standing there when it happens, and price it: a hundred blocks off the axles, owed personally at the far rim"
+    ],
+    "setting": {
+      "description": "The survey camp at the Centre, from four o'clock to dusk on the twentieth day. Spoil rings, a fistful of coarse grey-white salt from below the brown, a waxed sleeve, a fired clay tile on a thong, and a hundred forty-pound blocks of second-grade ballast going up in a stack beside the cairn, white on brown, too bright to look at without the mask."
+    },
+    "time_of_day": "late afternoon into dusk"
+  },
+  "chapter_id": "6e1f1986-595f-4e4d-a827-472b1a4fe225",
+  "id": "aba38126-080c-4b80-9f82-ed0dc6b380a9",
+  "in_world_time": "",
+  "sort_order": 3,
+  "status": "drafted",
+  "synopsis": "Sennet reaches for the strict reading of the First Article — brown ground is not crust, so the site is outside the bounds and the Fourth Article cannot touch it — and Denet closes it with his own eleven spoil rings: salt past the elbow, thirty-one inches at the thinnest, over the arm by any reckoning of the arm. Lyddan says 'seal' when he means 'stamp' and Iseul corrects him and then hears herself do it. She recites the whole Fourth Article from memory, correctly, including the fourth proviso and the season clock, and then opens a waxed sleeve she has not needed in four years and reads it again. Ysoly rules: dig it here, in front of the Warden, before the joint tile comes through on the twenty-fourth — and lays a hundred blocks of Assembly ballast off onto the ground to buy back the day it costs.",
+  "title": "Salt to the Arm",
+  "word_count": 1338
+}

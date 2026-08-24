@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The chapter's close, and the handoff. The gladness that costs most is Sabra's: her whole discipline is scarcity, she was at Sixty Wells in the year one hundred and sixty-six, and she has just found out that the people she buried on the twentieth day died on top of fourteen feet of sweet water. She is glad anyway, and the gladness ends her trade, and she still will not put the line on a hole that has been open one night. Chapter five opens with water standing within the bounds, a Warden of the Third Rank looking at it, and a whole tile at Ysoly's neck.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "gladness",
+      "grief",
+      "discipline",
+      "handoff"
+    ],
+    "objectives": [
+      "Dig the hole on the page — square, cut steps, bucket and rope, Hanei finally on the bucket after a night on the rope at Sixty Wells",
+      "Let the water arrive as seeping from every side rather than as a spring, and stand two feet deep with a lamp-flame moving on it",
+      "Give Sabra Onn the spilled cup: the one superstition she has, broken on purpose, witnessed by the girl she taught it to",
+      "Put the missing husk against the found water in the same hour",
+      "End on the ration figure said unchanged, and on Iseul Fane standing at the rim of a hole full of water rising within the bounds"
+    ],
+    "setting": {
+      "description": "The new hole, a hundred paces from Benchmark One: four feet square, nine feet down, cut steps, grey clay going the colour of a bruise at the bottom. Third hour of the morning to first light on the twenty-first day, a lamp burning down to its oil, the pound and the string in the dark beyond, and a stack of white ballast on brown ground between the hole and the cairn."
+    },
+    "time_of_day": "third hour of the morning to first light"
+  },
+  "chapter_id": "6e1f1986-595f-4e4d-a827-472b1a4fe225",
+  "id": "14c1ab29-17e8-40bb-bd9b-e500ca5bcf13",
+  "in_world_time": "",
+  "sort_order": 4,
+  "status": "drafted",
+  "synopsis": "Nine feet by the third hour of the morning, four feet square because a round hole in soft ground closes on you. The water comes in from the bottom and the four sides at once and stands two feet deep by the time the lamp burns out. Sabra Onn comes off the pound, drinks the first sweet water of her life that nobody carried, and then pours a full cup out on the ground on purpose and makes Hanei swear to say nothing about it. She walks the string in the dark and counts forty coughs where there were forty-one. Then she calls the ration figure at dawn, unchanged, a hundred paces from standing water — and Iseul Fane walks out along the stake line and looks down into the hole.",
+  "title": "The Figure Unchanged",
+  "word_count": 1018
+}

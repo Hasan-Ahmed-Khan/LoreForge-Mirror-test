@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Chapter 4, opening. The Tamm Line reaches the survey site on day twenty out of Bell Harrow with 552.5 gallons standing and 190 blocks of ballast aboard. The crossing has agreed at the Dry Ferry that nobody puts a bar in the ground until Ysoly says so at the Centre. Ysoly lied to Iseul Fane at the Ferry about the way-bill. The arrival must make concealment impossible before the wheels stop: the stake line, the spoil and the abandoned survey camp are standing in the open, and the Warden got there first.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "arrival",
+      "dread",
+      "wrongness",
+      "restrained"
+    ],
+    "objectives": [
+      "Put the reader on the brown ground physically: no tick under the wheels, a bootprint that stays, spoil rings, four sun-split hide tents, a hand-auger rig with the grease gone hard",
+      "Show the hask refusing, and that the animals' two centuries of correct instinct is exactly what has kept the water hidden",
+      "Establish Benchmark One as the bronze zero every level on the plain is worked back to",
+      "Put Iseul Fane on the site first, in possession of every fact except what came out of the holes",
+      "Retire the Ferry lie by having Ysoly refuse to repeat it, and end on the tile being summoned to the cairn"
+    ],
+    "setting": {
+      "description": "The Centre of the Meniscus, Benchmark One, day twenty out of Bell Harrow. Grey-white crust giving way to flat dirty brown ground that takes a bootprint and holds it. A dry-laid stone cairn with a bronze plug worn bright in the top of it; a line of eleven numbered stakes running east with spoil heaped at the foot of each; four hide tents two summers old, gone the colour of old rope and split along the ridge; a hand-auger rig under lashed poles; a blank tally board against a tent peg."
+    },
+    "time_of_day": "forenoon"
+  },
+  "chapter_id": "6e1f1986-595f-4e4d-a827-472b1a4fe225",
+  "id": "08d74024-0ad8-48e5-9eb9-7f37a233d4ad",
+  "in_world_time": "",
+  "sort_order": 0,
+  "status": "drafted",
+  "synopsis": "Forenoon of the twentieth day. The crust goes brown and soft and stops answering the wheels, and forty-one hask set themselves in the traces and refuse, because everything they have ever been taught says wet ground on the plain is what kills you. Eleven people walk the string across on foot. At Benchmark One the Warden's animal is already picketed: Iseul Fane came in at the third hour, has walked the stake line twice, and can describe eleven spoil rings and the wet clay in nine of them. She asks Ysoly the Ferry question a second time and is not answered, and tells her to bring the tile to the cairn before dark.",
+  "title": "Benchmark One",
+  "word_count": 1014
+}

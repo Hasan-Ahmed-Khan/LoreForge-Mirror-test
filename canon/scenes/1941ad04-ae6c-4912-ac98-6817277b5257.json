@@ -1,0 +1,34 @@
+{
+  "blueprint": {
+    "context": "The proof scene. Wet ground on the plain reads as brine and always has; the whole distance between a hazard everybody sensibly avoided and a find that ends the Road is one College-sealed instrument and about a minute. The glass is the only one between here and the far rim and it has been dropped once. This is also the chapter's first gladness: Hanei is nineteen, rim-born, and has never in her life drunk water nobody carried.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "proof",
+      "gladness",
+      "held breath",
+      "ceremony without ceremony"
+    ],
+    "objectives": [
+      "Prove the water in the open, procedurally, in front of a Warden of the Third Rank, with the bucket drawn by the person least able to be accused of fetching it",
+      "Keep the water-glass fragile and unhoused: there is no cut stone anywhere at the Centre to set a case down on",
+      "Let Hanei be gladly, physically glad, and let nobody permit her to apologise for it",
+      "Land the chapter's hinge line — a spade and an afternoon — as an answer to a practical question, not a speech"
+    ],
+    "setting": {
+      "description": "Bore nine, two hundred and forty paces east of Benchmark One, mid-afternoon. A numbered stake, a two-summer-old spoil ring, a reassembled hand-auger with cut grease in the collar, a hide bucket on a line, a stoneware jar, and eighteen inches of graduated glass half full of reference brine sealed at the far rim."
+    },
+    "time_of_day": "mid-afternoon"
+  },
+  "chapter_id": "6e1f1986-595f-4e4d-a827-472b1a4fe225",
+  "id": "1941ad04-ae6c-4912-ac98-6817277b5257",
+  "in_world_time": "",
+  "sort_order": 1,
+  "status": "drafted",
+  "synopsis": "Denet reopens bore nine, two hundred and forty paces east of the benchmark, with the rig he cached two summers ago. Salt to four feet, grey clay to six, wet clay at nine feet four. Iseul Fane draws the bucket herself so that nobody can say it was fetched. The College glass rides up and reads fresh in front of twelve witnesses; Sabra tastes it and does not spit; Hanei drinks a whole cup and laughs before she can stop herself. Ysoly asks what it would take a man without an auger, and Denet says a spade and an afternoon.",
+  "title": "Bore Nine",
+  "word_count": 1015
+}

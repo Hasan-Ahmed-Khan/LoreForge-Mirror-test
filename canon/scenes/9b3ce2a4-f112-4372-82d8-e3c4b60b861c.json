@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The reversal proper. Everyone on the crossing has spent fourteen days assuming the find is a thing that can be fought over, bought, sealed or owned. Shallow water cannot be owned, therefore it cannot be sold, therefore the four hundred blocks offered at the Dry Ferry were never for the water and Ysoly's roof was never real. Pell's paper at Thecla Bram's is denominated in blocks, which makes him the only person under the awning for whom the end of the Road is good news.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "reversal",
+      "economics",
+      "grief",
+      "restraint"
+    ],
+    "objectives": [
+      "Deliver the reversal as economics and engineering, not as sentiment: deep water needs capital, capital can be controlled, shallow water cannot",
+      "Use the Swallet's padlock as the working example of what deep water becomes",
+      "Retro-illuminate chapter three: the exact moment Vask's pen stopped was the Assembly learning it was insolvent",
+      "Give Pell the gladness that costs him, and make him name it himself before anyone else can",
+      "Close on Ysoly counting water butts twice at the one place on the plain where the count no longer means anything"
+    ],
+    "setting": {
+      "description": "Under hide awnings guyed to the wagon wheels at the survey camp, through the worst heat of the twentieth day. Spoil rings to sit on, a boring log, a pencil, a girth and a harness needle nobody is using."
+    },
+    "time_of_day": "afternoon lie-up"
+  },
+  "chapter_id": "6e1f1986-595f-4e4d-a827-472b1a4fe225",
+  "id": "9b3ce2a4-f112-4372-82d8-e3c4b60b861c",
+  "in_world_time": "",
+  "sort_order": 2,
+  "status": "drafted",
+  "synopsis": "Lying up through the heat, Denet works his own boring log down the margin and admits he has spent five months hunting the arithmetic mistake that would have made it eighty feet, because eighty feet is a shaft, and a shaft is dressed stone and a windlass crew and a season and a padlock, and a padlock has an owner who can be argued with. Nine feet has no owner. Ysoly works out that Oreth Vask stopped writing at the Ferry because he had realised there was nothing to buy, and that his letter north was a man getting his money out. Pell Corrow goes quiet, does the sum, and says out loud that a debt written in blocks of salt is the one thing the water makes cheaper. Ysoly goes out and counts the butts twice.",
+  "title": "Eighty Feet",
+  "word_count": 1141
+}
