@@ -1,0 +1,34 @@
+{
+  "blueprint": {
+    "context": "Seven dry days since Sixty Wells. The Line arrives with 169.5 gallons standing -- four days' grace -- and faces the longest dry leg on the plain: seventeen days to the Swallet. It must load 850 gallons here or not go. The cistern has not filled since the wetting of RR 199 and the depot sells water by weight. This is the point of maximum financial exposure on the whole crossing, and it is where the Salt Assembly has chosen to meet them.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "arrival",
+      "relief-that-is-not-relief",
+      "money",
+      "dread"
+    ],
+    "objectives": [
+      "Land the Dry Ferry physically: stone under iron tyres, voices after weeks of none, the only rock for two hundred miles.",
+      "Put the price of water on the page as a number, in blocks, and make the Line's position arithmetically desperate before any offer is made.",
+      "Show the twenty-two blocks of chapter 2 still costing them: Sabra will not let Denet open the case, because knowing has become expensive.",
+      "Reveal Vask by inference before he speaks -- Ysoly reads his arrival off the road as a figure -- and end on him coming down the stair to buy their water down to eleven."
+    ],
+    "setting": {
+      "description": "The Dry Ferry: a spine of grey rock a foot and a half above the plain, two hundred paces long, with the old ferry jetty cut into the end of it. Hide-roofed depot, walled pound, the bolted iron lid of the rock cistern, awnings guyed to mooring rings that once held ships. A northbound crossing of eighteen wagons lying up on the north side. Late afternoon of the thirteenth day out of Bell Harrow."
+    },
+    "time_of_day": "late afternoon into dusk"
+  },
+  "chapter_id": "4c174941-edf6-41b6-bd8c-3aabea4554f9",
+  "id": "7deb6fc5-98ed-44b2-b2e0-33754accc67e",
+  "in_world_time": "",
+  "sort_order": 0,
+  "status": "drafted",
+  "synopsis": "Day thirteen. The wheels come off crust onto cut stone and the Tamm Line lies up at the Dry Ferry beside a northbound crossing out of Tallow Reach. The cistern is four years past a wetting and the depot's board wants a block the two hundredweight; Sabra does the sum and it comes to thirty-one blocks, and tells Denet to keep the case shut, because the last time he opened it it cost twenty-two. Above the depot the Assembly's shutter stands open, and Ysoly works out from the road what it means before the man comes down the stair.",
+  "title": "The Only Rock",
+  "word_count": 1106
+}

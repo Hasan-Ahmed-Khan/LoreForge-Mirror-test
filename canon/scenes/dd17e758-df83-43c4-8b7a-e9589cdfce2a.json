@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The Fourth Article's third proviso says the seal reaches ground and water and nothing else -- it cannot touch the packet. But the College of Levels can lift Denet's seal for sealing a finding without entering it, and an unsealed surveyor's forty-one leaves are evidence nowhere. Burial does not require the paper. It requires the man.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "refusal",
+      "consequence",
+      "departure",
+      "clerical-doom"
+    ],
+    "objectives": [
+      "Kill the offer on a filing rule -- four lines on a roll, the same rule Denet already broke -- so the book's central mechanism is clerical and not heroic.",
+      "Show the burial: Vask does not need the packet, he needs the seal that makes it evidence, and he can have that by telling the College the plain truth.",
+      "Break the established pattern once -- the man who never finishes a threat finishes one, and deliberately leaves the larger one hanging.",
+      "Have Ysoly lie to a Warden of the Third Rank, on the record between them, for chapter 5.",
+      "Close on the tally-stick: eleven blocks cut on the debt face, and twenty with no face to cut them on."
+    ],
+    "setting": {
+      "description": "The Dry Ferry at first light and after: the depot's front table with the north bag and the south bag on it, the northbound crossing hitching on the north side, the Tamm Line's nine wagons filled and standing on the jetty road, the Assembly's shutter open above."
+    },
+    "time_of_day": "first light to second light"
+  },
+  "chapter_id": "4c174941-edf6-41b6-bd8c-3aabea4554f9",
+  "id": "dd17e758-df83-43c4-8b7a-e9589cdfce2a",
+  "in_world_time": "",
+  "sort_order": 5,
+  "status": "drafted",
+  "synopsis": "First light on the jetty. Denet says yes to four hundred blocks and asks for four lines on the College roll, and the sale dies on a clerical point, because the roll is the publication. Vask writes two letters and says what is in each: one north to Bell Harrow, unfinished; one south to the Level House, finished, which will lift a surveyor's seal and turn forty-one leaves into a story. Iseul Fane asks Ysoly one question and is told a lie. The Line rolls south at second light with more water than it has ever carried, eleven cut on the debt face, and twenty that have no face at all.",
+  "title": "The Letter South",
+  "word_count": 1413
+}

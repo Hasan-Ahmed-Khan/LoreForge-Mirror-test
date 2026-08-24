@@ -1,0 +1,34 @@
+{
+  "blueprint": {
+    "context": "The Centre is seven days south and on their route; the joint tile -- thirty-six wagons, two hundred people -- is four days behind them the whole way; Iseul Fane rides half a mile ahead every day. The Fourth Article reaches 'water rising or standing within the bounds', and a lens nine to fourteen feet down arguably does neither -- until somebody digs a hole and lets it fill.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "argument",
+      "law",
+      "cost",
+      "unresolved"
+    ],
+    "objectives": [
+      "Give Sabra Onn the most expensive sentence in the chapter -- dig it -- and make it arithmetic and memory, not sentiment.",
+      "Turn the plan against itself: the act that beats the Assembly hands the Wardenry the statute, and Ysoly is the only one who reads law for a living.",
+      "Rule without resolving -- they carry him because the way-bill says so, and the argument is held over seven days to the Centre.",
+      "Leave the split standing and unretractable: everyone on the record, in their own voice, with nowhere on nine wagons to be out of earshot."
+    ],
+    "setting": {
+      "description": "The same hide awning on the lee side of the depot wall, the lamp turned up one notch so that eleven people have to see each other's faces. The pound and the trough behind, the plain black beyond the rock's edge. Two in the morning."
+    },
+    "time_of_day": "two in the morning"
+  },
+  "chapter_id": "4c174941-edf6-41b6-bd8c-3aabea4554f9",
+  "id": "53857fdc-30a5-4d13-9164-22f3b3ef8fd5",
+  "in_world_time": "",
+  "sort_order": 4,
+  "status": "drafted",
+  "synopsis": "Sabra Onn -- whose whole trade dies if the water is real -- says carry him, and dig it at the Centre in front of the joint tile, because paper can be bought and burned and a hole with water standing in it cannot. Ysoly answers with the Fourth Article's first sentence: dig it and you build the thing the statute was written about, half a mile from the only Warden of the Third Rank between the rims. She rules on the way-bill and not on the count, and holds the argument over to the Centre.",
+  "title": "Day Twenty",
+  "word_count": 916
+}

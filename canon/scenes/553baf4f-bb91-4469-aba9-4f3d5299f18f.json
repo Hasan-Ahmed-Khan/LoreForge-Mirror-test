@@ -1,0 +1,36 @@
+{
+  "blueprint": {
+    "context": "The Tamm Line is eleven hands and nine wagons in a trade whose ordinary crossing runs two hundred people. Nobody here can be outvoted and then avoided for a month; whoever loses is roping the same wagons at dawn. The Centre is seven days south and on their route. The joint tile -- thirty-six wagons, two hundred people -- is four days behind them the whole way. Iseul Fane, the only Warden of the Third Rank between the rims, rides half a mile ahead of them every day.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "argument",
+      "split",
+      "exposure",
+      "law",
+      "small-scale"
+    ],
+    "objectives": [
+      "Write the split at the scale canon demands: an argument around a fire, not a mutiny -- every face visible, every position spoken aloud and unretractable.",
+      "Detonate the fifth term and expose Pell in front of everyone, and have Sabra answer him with the ration figure instead of a judgement.",
+      "Give Sabra Onn the most expensive sentence in the chapter -- dig it -- and make it arithmetic, not sentiment.",
+      "Turn the plan against itself: digging the water makes it 'standing within the bounds' and hands the Wardenry the Fourth Article on a plate.",
+      "Rule without resolving: they carry him because the way-bill says so, and the argument is held over to the Centre."
+    ],
+    "setting": {
+      "description": "Under a hide awning guyed to the mooring rings on the lee side of the depot wall, with the pound and the trough behind and the plain black beyond the rock's edge. Eleven hands, one master, one passenger, one lamp turned low. Well after midnight."
+    },
+    "time_of_day": "after midnight"
+  },
+  "chapter_id": "4c174941-edf6-41b6-bd8c-3aabea4554f9",
+  "id": "553baf4f-bb91-4469-aba9-4f3d5299f18f",
+  "in_world_time": "",
+  "sort_order": 3,
+  "status": "drafted",
+  "synopsis": "Eleven hands under an awning tied to a mooring ring. Ysoly reads all five terms aloud, including the fifth, which has a drover's daughter in it, and makes every hand say in front of the others whether to carry the surveyor past the Ferry or set him down. Six say set him down. Pell Corrow argues it best and then names himself before anybody else can, and Sabra Onn answers him with the ration figure instead of a judgement.",
+  "title": "The Count",
+  "word_count": 1009
+}

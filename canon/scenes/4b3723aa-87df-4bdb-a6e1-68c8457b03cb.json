@@ -1,0 +1,34 @@
+{
+  "blueprint": {
+    "context": "Thecla Bram's last instruction to Pell in chapter 1 was to put a line in a hand coming north at the Ferry on day thirteen if there was one worth writing. There is a northbound crossing on the rock and it rolls at first light. Hanei was given the pound at Sixty Wells and told: if you are ever wrong, come and tell me you were wrong before somebody else tells me you were right.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "betrayal-without-malice",
+      "debt",
+      "night",
+      "loyalty"
+    ],
+    "objectives": [
+      "Fire the gun Ana planted: a northbound crossing, a strip of paper two fingers wide, and a debt that has to be paid in something.",
+      "Keep Pell sympathetic and unrepentant in the specific way canon requires -- he does not experience it as treachery, and he is not wrong about the words he sold.",
+      "Show the leak as a debt: sixty-four blocks, a quarter's interest, and a daughter who goes on the paper at fourteen.",
+      "Put Hanei in the position of choosing her master over the man who has been kind to her, and let her tell in her own tell -- word for word."
+    ],
+    "setting": {
+      "description": "The Dry Ferry after dark: the walled pound with forty-one head watering in shifts off a stone trough, the jetty beyond it, and the northbound crossing's fires along the north side of the rock. Cut stone still giving back the day's heat through boot leather."
+    },
+    "time_of_day": "night, between watering shifts"
+  },
+  "chapter_id": "4c174941-edf6-41b6-bd8c-3aabea4554f9",
+  "id": "4b3723aa-87df-4bdb-a6e1-68c8457b03cb",
+  "in_world_time": "",
+  "sort_order": 2,
+  "status": "drafted",
+  "synopsis": "Between shifts at the pound Hanei walks the jetty and finds Pell Corrow at the northbound crossing's fire with a girth across his knee, a borrowed pen and a strip of paper the width of two fingers. He does not hide it and he does not defend it; he explains it, and the explanation is worse. Hanei takes it to Ysoly, because Ysoly told her to, and Ysoly counts the butts and then sends for everybody.",
+  "title": "Two Fingers Wide",
+  "word_count": 979
+}

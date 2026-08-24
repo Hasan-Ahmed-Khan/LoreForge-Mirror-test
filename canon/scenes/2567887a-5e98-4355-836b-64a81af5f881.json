@@ -1,0 +1,36 @@
+{
+  "blueprint": {
+    "context": "Vask has known for a month, by way of Thecla Bram, who holds Pell Corrow's debt and takes payment in news. He does not know the depth, because nothing has come off the plain since Sixty Wells. The Assembly's whole book is denominated in salt: a working well at the centre does not damage it, it erases it. The Ferrant Sinking of RR 189 is the precedent everyone in the room is really arguing about.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "negotiation",
+      "courtesy",
+      "institutional",
+      "money",
+      "quiet-menace"
+    ],
+    "objectives": [
+      "Make Vask institutional and courteous and genuinely not a villain -- the man is protecting a thing older than himself and says so without self-pity.",
+      "Invert his established tell: he writes down what you said while you are still saying it, and when he hears the depth he stops writing.",
+      "Put a real, generous, itemised offer on the table -- one that would save every person on the Line -- so that refusing it costs something.",
+      "Name the Ferrant precedent as an argument FOR selling, and name the Compact's crookedness out loud: the Assembly assesses the price the Wardenry must pay.",
+      "Plant the fifth term (Corrow's paper at Bram's) without comment, to detonate at the fire."
+    ],
+    "setting": {
+      "description": "The Salt Assembly's factor's room over the Dry Ferry depot: one table, one chair, a shelf of ledgers with the rock's damp in them, a ten-pound iron cylinder chained through a ring in the wall, and an open shutter looking down the length of the jetty onto the pound and the plain beyond it. Evening; lamp lit; the northbound crossing loud below."
+    },
+    "time_of_day": "evening, lamplit"
+  },
+  "chapter_id": "4c174941-edf6-41b6-bd8c-3aabea4554f9",
+  "id": "2567887a-5e98-4355-836b-64a81af5f881",
+  "in_world_time": "",
+  "sort_order": 1,
+  "status": "drafted",
+  "synopsis": "Above the depot, with the Compact's ten-pound cylinder chained to the wall, Vask tells Ysoly and Denet what the Assembly knows and how long it has known it -- a month, by way of a correspondence he has never paid for. He asks how deep. Denet answers, and Vask writes it down while he is still saying it, and then stops writing. Five numbered terms follow, drafted at Bell Harrow before the crossing rolled; the fifth names a drover's daughter. Denet works the price down the margin in gallons, and asks for the night.",
+  "title": "The Factor's Room",
+  "word_count": 1279
+}
