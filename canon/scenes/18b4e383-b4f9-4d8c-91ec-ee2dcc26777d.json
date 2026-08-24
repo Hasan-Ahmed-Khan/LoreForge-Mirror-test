@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The evening of the day Iseul named her cause. Ferrant's precedent is on everyone's mind: sealed in a morning, capped with plain-salt and mortar, no survey in fourteen years. The fourth proviso -- the season clock -- is the only limit in the Article with teeth, and it rides on Ysoly's fired tile.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "legal",
+      "intimate",
+      "dread",
+      "scrupulous"
+    ],
+    "objectives": [
+      "Read the Second Article's revocation clause and the Fourth Article's fourth proviso against each other",
+      "Establish that the order of the two sentences decides everything",
+      "Show Iseul refusing to win by ambush, and why",
+      "Give the seal its honest case: the two hundred at Sixty Wells died of unsurveyed water",
+      "Open the untested question -- the Article says pay the finder, and the finder may be a Warden"
+    ],
+    "setting": {
+      "description": "The cairn at Benchmark One after dark: dry-laid grey stone chest high, a bronze plug worn bright by two centuries of thumbs, a picketed animal, a lamp on the stone, and the crust ticking as it cools in every direction for three hundred and eighty-five miles."
+    },
+    "time_of_day": "night"
+  },
+  "chapter_id": "d4fd1d05-51cf-4599-9121-2fe0b0c1a640",
+  "id": "18b4e383-b4f9-4d8c-91ec-ee2dcc26777d",
+  "in_world_time": "",
+  "sort_order": 1,
+  "status": "drafted",
+  "synopsis": "Day twenty-one, night, at Benchmark One. Iseul reads the Second Article entire and the fourth proviso of the Fourth, and puts them next to each other for the first time in a hundred and sixty-six years. Whichever sentence is spoken first governs, and she is the only person between the rims who can speak either. She tells Ysoly rather than spring it, makes the honest case for the seal, and ends by asking who the finder is.",
+  "title": "Two Sentences, One Mouth",
+  "word_count": 1217
+}

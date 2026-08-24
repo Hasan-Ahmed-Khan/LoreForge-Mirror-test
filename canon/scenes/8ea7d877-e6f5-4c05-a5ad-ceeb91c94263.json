@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The last hour before the joint tile arrives. Ysoly holds the only whole tile within three hundred and eighty-five miles; Iseul holds the only rank that can speak either sentence. The requirement must be made before the same two witnesses, over an unbroken tile, and the cause must be spoken before the clay is broken.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "climax",
+      "ceremony",
+      "knife-edge",
+      "cold"
+    ],
+    "objectives": [
+      "Let Vask make the strongest legal case against the clock: the word is 'begun'",
+      "Stage the declaration exactly as the Article requires -- rank, ground, two named witnesses, seal",
+      "Cash the untested question by naming a Warden as the finder",
+      "Bring the Second Article's cause and the Fourth Article's requirement into the same four seconds",
+      "End on the knife edge without resolving it"
+    ],
+    "setting": {
+      "description": "The rim of the hole at last light: brown ground trodden to mire, eleven stakes, a hundred blocks of ballast salt stacked white, a lead disc the width of a palm wired to an iron pin, and the glow of thirty-six wagons' fires standing up on the northern horizon."
+    },
+    "time_of_day": "last light"
+  },
+  "chapter_id": "d4fd1d05-51cf-4599-9121-2fe0b0c1a640",
+  "id": "8ea7d877-e6f5-4c05-a5ad-ceeb91c94263",
+  "in_world_time": "",
+  "sort_order": 4,
+  "status": "drafted",
+  "synopsis": "Dusk on the twenty-third, at the hole. Vask prices everything one last time and reads the word 'begun' back at them. Then Iseul Fane unwraps a lead disc that has been in cloth since RR 191, names Oreth Vask and Sabra Onn as her two witnesses, drives the pin through the crust and speaks the Fourth Article onto the ground -- and names Denet Rasca the finder, so that the Wardenry owes itself. Then she speaks the cause under the Second Article and puts her hand out for the tile.",
+  "title": "The Speaking of It",
+  "word_count": 1495
+}

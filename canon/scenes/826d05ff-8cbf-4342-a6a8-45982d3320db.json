@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Sabra counted forty coughs at dawn on the twenty-first, and a hask that does not husk at dawn is two days from the staggers. It is now the twenty-second. Iseul has said she will speak the Fourth Article before the joint tile comes through, which is one day away. Nothing has been decided by anybody.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "grief",
+      "labour",
+      "argument",
+      "flat light"
+    ],
+    "objectives": [
+      "Pay the consequence of the missing cough from chapter 4 -- the hask goes down and stays down",
+      "Use the soft ground for the one mercy it offers and make it cost something",
+      "Run the Line's argument by age, in the open, with money in it",
+      "Let Pell say his sum again with his daughter in it and let nobody answer him",
+      "Keep Ysoly from deciding, in a way that is characterisation and not evasion"
+    ],
+    "setting": {
+      "description": "The brown ground a hundred paces west of the wagons at the Centre, in the flat white of late morning: forty hask in a rope pound, a downed animal in cut traces, two spades and a hide bucket, and ground soft enough to open, which no ground on the Meniscus has ever been."
+    },
+    "time_of_day": "late morning into afternoon"
+  },
+  "chapter_id": "d4fd1d05-51cf-4599-9121-2fe0b0c1a640",
+  "id": "826d05ff-8cbf-4342-a6a8-45982d3320db",
+  "in_world_time": "",
+  "sort_order": 2,
+  "status": "drafted",
+  "synopsis": "Day twenty-two. The near-side leader on team four goes down with the staggers and is cut out of the traces where she lies, and for the first time in the history of the Road a hask can be buried, because the ground at the Centre takes a spade. The Line argues it out over the grave, and the argument runs by age: the young are saved by the water and the old are ruined by it. Ysoly does not decide, and answers a question with an instruction.",
+  "title": "Forty",
+  "word_count": 1020
+}

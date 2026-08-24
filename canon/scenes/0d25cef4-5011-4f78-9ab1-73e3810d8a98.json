@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The Line has exactly ten days of water for a ten-day leg and no grace. Iseul has said she will speak before the joint tile comes through, and the joint tile is one day out. Once the ground is sealed the water is held in trust and cannot be drawn, so the last lawful morning to fill is this one.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "labour",
+      "abundance",
+      "reversal",
+      "gathering"
+    ],
+    "objectives": [
+      "Turn Sabra's fear into an act: the water-master spends a day making her own trade worthless",
+      "Produce the one number nobody has ever had -- yield -- by drawing the hole dry four times",
+      "Move the record onto the tally-stick, which the Compact makes a book and the seal cannot touch",
+      "Flip the standoff: full butts mean the Line can stand on the Centre, which forces Iseul's hand",
+      "Bring Vask in ahead of two hundred people and let him price everything"
+    ],
+    "setting": {
+      "description": "The hole and the wagon line at the Centre through a full day: two hide buckets, a rope, thirty-six slung butts at thirty gallons each, wet clay trodden to a slick round the rim, and by dusk the dust of thirty-six wagons standing up on the northern beacons."
+    },
+    "time_of_day": "dawn to dusk"
+  },
+  "chapter_id": "d4fd1d05-51cf-4599-9121-2fe0b0c1a640",
+  "id": "0d25cef4-5011-4f78-9ab1-73e3810d8a98",
+  "in_world_time": "",
+  "sort_order": 3,
+  "status": "drafted",
+  "synopsis": "Day twenty-three. Sabra Onn draws the hole to the clay four times and fills every butt on nine wagons -- one thousand and eighty gallons out of a four-foot square, which is the volume the survey could never give. Denet times the recovery and Ysoly cuts the figure on the water face of the tally-stick in front of her own hands, where under the fifth head of the Compact it becomes a book of account admissible at either rim and beyond the reach of any seal. Oreth Vask rides in at dusk ahead of the joint tile.",
+  "title": "The Water Face",
+  "word_count": 1416
+}

@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Continues directly from the last line of chapter 4, with Iseul standing at the rim of the hole at dawn on day twenty-one. The hole is nine feet deep with two feet of water standing in it, inside the bounds by Denet's own auger logs. Nobody has told the string to move.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "procedural",
+      "cold",
+      "inevitable",
+      "restrained"
+    ],
+    "objectives": [
+      "Establish that Iseul is building a record, in order, without a book",
+      "Put the Third Article's 'every well within the bounds' on the ground as the cause",
+      "Show both readings of hole-versus-well destroying something",
+      "Have Iseul name her own cause aloud rather than spring it",
+      "Give the packet its protection under the second proviso: ground, not paper"
+    ],
+    "setting": {
+      "description": "The survey camp at the Centre, two hundred and forty paces east of Benchmark One: brown ground that takes a bootprint and keeps it, eleven numbered stakes and their spoil rings, four rotted hide tents, a hand-auger rig, a stack of a hundred blocks of ballast salt standing white on the brown, and a four-foot-square hole with water in it."
+    },
+    "time_of_day": "morning, second hour"
+  },
+  "chapter_id": "d4fd1d05-51cf-4599-9121-2fe0b0c1a640",
+  "id": "9566b09b-e2f1-4f7d-b6d9-3a31ca8ec975",
+  "in_world_time": "",
+  "sort_order": 0,
+  "status": "drafted",
+  "synopsis": "Day twenty-one, morning, at the hole. Iseul Fane takes the record in order and then recites the Third Article: every well within the bounds is the Wardenry's to open. Whether a four-foot hole is a well is a question with no good answer in either direction. She says out loud, in front of the hands, that she has cause to revoke the tile, and hands them the Fourth Article's second proviso for nothing: ground, not paper. Then she tells them when she will speak.",
+  "title": "Every Well Within the Bounds",
+  "word_count": 1100
+}
