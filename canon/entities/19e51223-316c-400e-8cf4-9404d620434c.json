@@ -40,11 +40,13 @@
       "cool sand",
       "shade"
     ],
+    "shade": "the drift under her starboard bilge: a strip some forty feet long that moves with the sun and is gone by four. It is the only shade between Sixty Wells, three days north, and the Dry Ferry, four days south - seven days of road with nothing else on it standing high enough to throw a shadow a man can lie down in. Seven days, not eleven: north of the wells and south of the Ferry there are the stations themselves, and the stations have awnings.",
     "travel_days": {
       "Bell Harrow": 9,
       "Sixty Wells": 3,
       "the Centre": 11,
-      "the Dry Ferry": 4
+      "the Dry Ferry": 4,
+      "the Glass Lees": 6
     },
     "type": "landmark / wreck",
     "water": "none. Nobody camps here without full skins."
@@ -54,7 +56,7 @@
   "name": "The Kell",
   "primary_media_id": null,
   "status": "canon",
-  "summary": "Three days past Sixty Wells the beacon line runs within a bowshot of a ship: a hundred-foot salt-trader lying on her starboard side where the sea left her, timbers gone silver-hard and ringing when struck. Crossings stop here because she is the only shade for eleven days in either direction, and the sand-drift under her hull is cool enough to sleep on. Every crew that has ever laid up here has cut its name into her strakes, so the wood is a two-century register in a hundred hands.",
+  "summary": "Three days past Sixty Wells the beacon line runs within a bowshot of a ship: a hundred-foot salt-trader lying on her starboard side where the sea left her, timbers gone silver-hard and ringing when struck. Crossings stop here because the sand-drift under her hull is the only shade between Sixty Wells and the Dry Ferry - three days behind, four ahead - and it is cool enough to sleep on. Every crew that has ever laid up here has cut its name into her strakes, so the wood is a two-century register in a hundred hands.",
   "tags": [
     "landmark",
     "wreck",

@@ -32,9 +32,10 @@
       "the survey site"
     ],
     "features": [
-      "Benchmark 1 - a bronze plug in a stone cairn, set at the original survey",
+      "Benchmark 1 - a bronze plug in a stone cairn, set when the bounds were first run, and the zero every level on the plain is worked back to",
       "the survey camp: four hide tents, a hand-auger rig, a tally board",
       "the stake line running east - eleven bores, nine of them wet",
+      "the spoil rings heaped at the stakes: salt from the first arm's depth, grey clay under that, wet clay from nine feet down",
       "the brown ground, soft enough to take a bootprint that stays"
     ],
     "position": "geographic centre of the plain; 20 days from Bell Harrow, 21 from Tallow Reach",
@@ -43,23 +44,26 @@
       "auger grease",
       "wet spoil that smells of clay, not salt"
     ],
+    "the_strict_reading": "The narrow reading is still available and should be owned rather than left lying about. A rim advocate retained for the finder can take 'bearing salt' to mean the crust proper - grey-white, ringing, the thing everyone on the plain means by the word - argue that soft brown ground is not it, and put the survey site outside the bounds, where the Fourth Article cannot reach. It can be argued in good faith. No rim court has ever ruled on the bounds, any more than it has ruled on the Fourth. \n\nWhat has kept anyone from running it is the price. The First Article's second sentence is 'Beyond them it answers for nothing', and the Third gives the Wardenry every well within the bounds. Put the Centre outside and the Wardenry has no power to ration the water there - and no duty to a single person standing on it, 385 miles from a rim. It takes the seal off the ground, and the season clock goes with the seal, because a licence-holder can only demand a survey be begun on ground that was lawfully sealed. The argument that gets the Wardenry off the site is the same argument that leaves the people on the site with no law over them and no claim on anybody. There is the benchmark, besides: the Wardenry's own zero stands here, and to put the Centre outside the bounds is to say the Wardenry answers for nothing about the ground it measures everything from. Oreth Vask will never touch it - a seal is precisely what the Assembly wants. It belongs to whoever is prepared to hold the Centre with their own water.",
     "travel_days": {
       "Bell Harrow": 20,
       "Sixty Wells": 14,
       "Tallow Reach": 21,
       "the Dry Ferry": 7,
+      "the Glass Lees": 5,
       "the Kell": 11
     },
     "type": "survey site / geographic centre",
     "water": "the find: fresh water under the crust. Shallow - the wet bores struck at between nine and fourteen feet, which is a hand-dug well, not an engineering problem",
-    "why_it_matters": "deep water would need capital, and capital could be controlled. Shallow water cannot be. If the centre can be dug, the Road has no reason to exist and neither do the people who license it."
+    "why_it_matters": "deep water would need capital, and capital could be controlled. Shallow water cannot be. If the centre can be dug, the Road has no reason to exist and neither do the people who license it.",
+    "within_the_bounds": "Yes - and it is worth saying plainly on the record, because the ground does not look it. The First Article's test is two-part: ground lying below the old shoreline, and bearing salt to the depth of a man's arm. The Centre passes both. It is the lowest ground on the plain, so the shoreline half is not arguable here of all places. The salt half is a matter of digging. The brown goes down about a hand - it is clay worked up into the salt by the wet underneath, which is why it gives underfoot - and beneath the brown the salt is grey-white, coarse and continuous, and the grey clay does not begin until below the arm. The auger logs have it eleven times over: the thinnest of the eleven bores ran salt to thirty-one inches, which is over the arm by any reckoning of the arm, and the spoil rings are still heaped at the stakes for anyone who wants to kneel down and rub one between finger and thumb. The wet spoil smells of clay and not of salt, and that is the find; it is brought up from nine to fourteen feet and says nothing whatever about the first thirty-one inches."
   },
   "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
   "id": "bb3f83ac-b8b5-4157-a66d-6c2b79a3a80e",
   "name": "The Centre",
   "primary_media_id": null,
   "status": "canon",
-  "summary": "The dead middle of the Meniscus, twenty days from either rim, where the plain is at its lowest and the crust goes from grey-white to a dirty brown that gives underfoot like packed ash. There is nothing here to see: a Roadwarden benchmark, a cairn, and now the survey camp - four hide tents, a hand-auger rig, and a line of stakes running east marking bores that came up wet. The water is under it, and the borings say it is shallow, which is the wrong answer: shallow means anyone with a shovel and a season can have it.",
+  "summary": "The dead middle of the Meniscus, twenty days from either rim, where the plain is at its lowest and the crust goes from grey-white to a dirty brown that gives underfoot like packed ash. It looks like ground that has stopped being salt. Put a spade in and it has not: the salt runs the depth of a man's arm before the grey clay starts, which is the whole of the Wardenry's claim to the place. There is nothing else here to see - a Roadwarden benchmark, a cairn, and now the survey camp: four hide tents, a hand-auger rig, and a line of stakes running east marking bores that came up wet. The water is under it, and the borings say it is shallow, which is the wrong answer: shallow means anyone with a shovel and a season can have it.",
   "tags": [
     "survey-site",
     "chapter-4",

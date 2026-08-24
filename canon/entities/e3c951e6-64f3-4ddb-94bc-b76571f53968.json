@@ -1,0 +1,90 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Geology"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      },
+      {
+        "text": "",
+        "title": "Land Use"
+      },
+      {
+        "text": "",
+        "title": "Economy"
+      },
+      {
+        "text": "",
+        "title": "Demographics"
+      },
+      {
+        "text": "",
+        "title": "Security"
+      }
+    ],
+    "a_note_on_the_mileages": "Days govern, miles are derived. Water is loaded in days and the beacon count is in whole days, so the mileages here are 19.5 x the day count and rounded to the nearest five. They will not sum to the yard against the surveyor's chain-line and are not meant to: Bell Harrow 0, Sixty Wells 6, the Kell 9, the Dry Ferry 13, the Centre 20, the Swallet 30, Tallow Reach 41. Those seven numbers are the canon. Anything in miles is a convenience.",
+    "aliases": [
+      "the Cold Well",
+      "the Swallet",
+      "Beacon 1160"
+    ],
+    "authority": "The Wardenry, under the plain words of the Third Article: every well within the bounds is theirs to open, to close and to ration. A Warden of the Fifth Rank keeps the post, the toll-book and the strongbox. The toll is two blocks of second-grade salt the wagon, paid before the butts are unstopped and entered on the Bell Harrow roll at the season's end. There is no Warden of the Third Rank here and everybody has noticed.",
+    "features": [
+      "the windlass house over the shaft - stone below, hide above, the only roof for ten days in either direction",
+      "the drinking-line: two hundred feet of stone trough, ochre to the lip, filled by hand and drained by a string of forty in under an hour",
+      "the glasswort beds - forty acres under irrigation off the overflow, and the only green on the Meniscus",
+      "the pressing shed, where cut glasswort goes into forty-pound cakes of salt-fodder",
+      "the Roadwarden post: two rooms, a strongbox, the toll-book, and the padlock, which is the actual instrument of government on the southern leg",
+      "the pound, walled with spoil hauled up out of the shaft"
+    ],
+    "fodder": "Salt-fodder is pressed glasswort cake, forty pounds the cake, cut and pressed here and hauled north to the Dry Ferry depot and south to Tallow Reach. A hask eats about twelve pounds of it a day in the traces. Every crossing on the southern leg buys fodder here whether it needs water or not, which is the other half of the Wardenry's grip and the half nobody argues with.",
+    "hazards": [
+      "the shaft silts; it has failed twice in living memory, both times late in a bad year",
+      "a wetting floods it off the crust and it runs brack for a month afterwards",
+      "the glasswort beds crust over within a season if the overflow is diverted, and the southern fodder supply goes with them",
+      "the padlock"
+    ],
+    "how_the_beasts_are_watered": "Not from the butts, except for the half-gallon. The Meniscus is pocked with rotten crust - soft patches where brine stands under a thin lid - and the water-master's real craft on the southern leg is reading the glare for them. She walks out a hundred yards clear of the beacon line, cuts the lid with a bar, and the string is led over to drink out of the hole while the wagons go round it at a distance. The brine would kill a person inside a week and does a hask no harm at all. Expect a lid every second or third day on the southern leg; a hask watered to fill will go three days on the half-gallon and the cake, and five days with nothing found is when the string starts to fail.",
+    "name": "'Swallet' is a rim-scarp word for the place a river goes underground. The surveyors of RR 1 wrote it on the first sheet and it stuck to the paper; the drovers call it the Cold Well and half of them have never heard the other name.",
+    "population": "~30 permanent: a Warden of the Fifth Rank, a windlass crew of six, and the glasswort cutters, who are the only people on the Meniscus who farm and are treated at both rims as though this were a character flaw.",
+    "position": "on the beacon line, 30 days (~580 road-miles) south of Bell Harrow; 10 days (~195 miles) south of the Centre; 11 days (~220 miles) north of Tallow Reach. It stands alone in the middle of the twenty-eight days and five hundred and fifty miles that separate the Dry Ferry from Tallow Reach, and it cuts that run into seventeen days and eleven.",
+    "present_day": "RR 203",
+    "reliability": "Reliable enough to survey a Road through and unreliable enough that no master leaves it with a butt unfilled. It has failed outright twice in living memory - RR 181 and RR 196, both late in bad years - and both times the southern crossings turned back from here. It silts, and re-digging it is a Wardenry job that takes a season and a windlass crew, which is the polite way of saying that the only people who can reopen the southern leg are the people who can close it.",
+    "sensory": [
+      "cold water",
+      "iron and wet gravel",
+      "ochre on everything that touches it",
+      "cut glasswort",
+      "the windlass ratchet going at all hours"
+    ],
+    "the_two_numbers": "Two gallons the head the day, and half a gallon the hask. The first is statute - the Third Article of RR 1 - and the master answers for it at the far rim against a scale. The second is custom and self-interest, and nobody answers for it anywhere. Sabra Onn calls both at first light before the butts are unstopped, in the same eleven words she has used for thirty years: 'Two gallons the head, half a gallon the hask. Eleven and forty-one.' Then the sum, then the days left to water, and the days left to water is the only part that changes.",
+    "the_working": "CHECK THIS. Every input is stated somewhere else in canon.\n  pace: 19.5 miles the day laden (The Meniscus)\n  the Tamm Line: 11 hands, 41 hasks, 9 wagons (The Tamm Line)\n  human ration: 2 gallons the head the day (Third Article, RR 1)\n  hask sweet-water draw: 0.5 gallon the head the day (The Hask)\n  a gallon of sweet water weighs 10 lb (the Compact of Weights, RR 47)\n  water rides in slung hide butts, four to a wagon, 30 gallons the butt: 120 gallons the wagon, 1,080 gallons of capacity across nine\n  ballast: 212 blocks at 40 lb = 8,480 lb (Ballast Salt)\n\nWATER POINTS, by day out of Bell Harrow: Sixty Wells 6, the Dry Ferry 13, the Swallet 30, Tallow Reach 41. The Kell (day 9) has none. The Centre (day 20) has none either, and that is the book.\n\nDRY LEGS: 6, then 7, then 17 (the Ferry to the Swallet), then 11. The longest is seventeen days. It was twenty-eight before this place existed.\n\nDAILY DRAW: 11 x 2 = 22 gallons for the hands. 41 x 0.5 = 20.5 for the string. 42.5 gallons the day, 425 lb the day.\n\nTHE LONG LEG: 42.5 x 17 = 722.5 gallons, 7,225 lb, a little over three tons. Loaded with the customary three days' grace: 42.5 x 20 = 850 gallons, 8,500 lb, 3.8 tons. That is 850 of 1,080 gallons of butt - eight butts full, one part-filled, one dry. It fits, and it is left short on purpose, because the Ferry sells water by weight and in a dry season at four times Bell Harrow prices.\n\nLADEN WEIGHT ON THE LONG LEG: 8,500 lb of water + 8,480 lb of ballast + glasswort cake at 12 lb the hask the day (41 x 12 x 20 = 9,840 lb) = 26,820 lb over nine wagons. 2,980 lb the wagon, under four hasks apiece, on level crust. It walks.\n\nAGAINST THE OLD RECKONING: two gallons for all fifty-two head across the old twenty-eight-day leg is 2,912 gallons, 29,120 lb, thirteen tons of water alone on top of four of ballast. No wagon train survives that, and none ever did. Two cheap things fixed it. The Swallet cut twenty-eight days to seventeen. And 'the head' in the Third Article means a person - the Compact of Weights settled that in RR 47 - so the beasts were never inside that figure. They draw a quarter of it in sweet water because they take the rest of theirs as brine.",
+    "travel_days": {
+      "Bell Harrow": 30,
+      "Sixty Wells": 24,
+      "Tallow Reach": 11,
+      "the Centre": 10,
+      "the Dry Ferry": 17,
+      "the Kell": 21
+    },
+    "type": "water point / Wardenry well station",
+    "water": "One shaft, sixty feet: dressed stone from the Dry Ferry for the first twenty, open gravel below that. The bed it stands in is the buried mouth of a river that came off the red rock at the south rim and fed the sea while there was a sea. The river is still there, running in gravel under the crust, and the Swallet is the one place the Road can reach it. The water comes up cold - the only cold thing between the rims - and rusty, and it stains the troughs and the hands and the hide butts a permanent ochre that never washes out. It runs sweet from the turn of the year to about midsummer; after that it goes brack by degrees as the bed drops, and in a bad year it is past drinking by the last quarter and the southern leg closes with it.",
+    "why_it_matters": "Two things, and the second one is the book.\n\nFirst: between the Dry Ferry and Tallow Reach there are twenty-eight days and five hundred and fifty miles of Road, and the Swallet is the only water in any of it. The Wardenry can shut it with a padlock and one sentence. Anybody who argues with the Wardenry south of the Ferry is arguing with their own throat, and both sides have done the arithmetic.\n\nSecond: the Swallet is the reason nobody ever looked at the centre. It is fed from the rim, by gravel, off the red rock, and every surveyor for two centuries has drawn the same conclusion from it - that fresh water on the Meniscus comes in from the edges and dies where the gravel dies, and that the middle of the plain is as far from an edge as ground gets. The Swallet was never the exception that proved there was water out there. It was the argument that there was not."
+  },
+  "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
+  "id": "e3c951e6-64f3-4ddb-94bc-b76571f53968",
+  "name": "The Swallet",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "Thirty days south of Bell Harrow and ten south of the Centre the beacon line bows west to a shaft sunk sixty feet through crust and grey clay into a bed of river gravel, and that gravel is the only running water between the rims. It comes up cold, which nothing else on the Meniscus does, and rusty, and it tastes of iron and wet stone; after a month of water carried in hide it tastes like the best thing anyone has ever drunk. A windlass house, two hundred feet of stone trough, forty acres of glasswort under irrigation, a pressing shed and a Warden post with a strongbox and a padlock - that is the whole of the Swallet, and every crossing on the southern leg lives or dies on whether the Wardenry has it open.",
+  "tags": [
+    "place",
+    "water",
+    "southern-leg",
+    "wardenry"
+  ]
+}

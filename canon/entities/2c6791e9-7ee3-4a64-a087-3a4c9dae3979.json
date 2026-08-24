@@ -1,13 +1,16 @@
 {
   "attributes": {
-    "cause": "the well-string turned brackish across a single season. The Wardenry rationed rather than closed, because closing it stranded four hundred people at the halfway point.",
+    "cause": "the well-string went over inside a single season — nine sweet wells to six, six to two, two to none. Brackish is the plain's ordinary water and sulphur is what Sixty Wells has always smelled of, so the turn read as a bad summer until it read as bodies.",
     "consequence": "the Fourth Article — the hazard clause — sealed the following spring, extending the Wardenry's reach from wells to any water within the bounds",
     "counter_reading": "the wells went bad on their own, and the rationing order that actually killed people was the Wardenry's. The Article answered a failure of judgement with a grant of power to the body that failed. Anyone on the plain can make this argument. Nobody at Bell Harrow will hear it.",
     "date": "RR 166. The Fourth Article followed in RR 167.",
     "finding": "the inquiry at Bell Harrow held that the Wardenry's authority ran to wells and not to water, and that the gap was what killed them",
     "how_it_is_used": "it is the moral cover for every seizure since. A Warden invoking the Fourth is never arguing about property; they are arguing about the two hundred, and they mean it.",
+    "point_of_no_return": "the crossings that died were southbound and had already drawn. They were nine and ten days out when the teams began going down, the wells behind them and the Dry Ferry ahead, and the Ferry the nearer of the two. Turning back meant recrossing a hundred and fifteen miles on the same water that was killing them, to a rim they had no cargo for and no licence to be at; going on meant seven days from the field to the cistern on the jetty. Nobody on that road had a third choice. That is what it means to say they could not walk out — not that the distance was impossible, but that every direction ran through the same barrels.",
+    "position_on_the_road": "day 6 of 41 out of Bell Harrow, about 115 miles, on the beacon line. First honest water and last. The middle of the crossing is the centre, day twenty, where there is nothing but a bronze benchmark and a cairn — Sixty Wells is the near end of the road, not the middle of it, and a crossing that has reached it has spent one day in seven and none of its difficulty.",
     "present_day": "RR 203",
-    "toll": "two crossings; something over two hundred dead between the wells and the rim",
+    "toll": "two crossings, about four hundred people between them; something over two hundred dead between the wells and the Dry Ferry, most of them in the last three days of it",
+    "why_it_was_rationed": "closing the field sent nobody home. A southbound crossing reaches Sixty Wells on day six with its barrels down by design — the weighbridge licenses water stage to stage at two gallons the head the day, because the string is the reason nobody carries the whole forty-one. Shut the field and four hundred people are standing on it with nothing to draw in either direction. Rationing at least put something in the barrels. The order also replaced the taster's board as the authority, and once the chalk had been overruled it stopped being kept.",
     "why_the_name": "'brackening' is what the plain calls a well going salt — it is a common word used once, here, as a proper noun"
   },
   "category_id": "7a510783-2fb6-426d-988b-17301e178c5b",
@@ -15,7 +18,7 @@
   "name": "The Brackening at Sixty Wells",
   "primary_media_id": null,
   "status": "canon",
-  "summary": "Over one season the well-string at Sixty Wells went from drinkable to brackish to poison, and the Wardenry rationed it rather than closing it. Two crossings drank there, and something over two hundred people died between the wells and the rim. The inquiry held that the Wardenry had authority over wells but not over water, and that the gap had killed people; the Fourth Article was sealed the following spring.",
+  "summary": "Over one season the well-string at Sixty Wells went from just drinkable to brackish to poison, and the Wardenry rationed it rather than closing it. Two southbound crossings — four hundred people — drew there under ration and walked on, and something over two hundred of them died between the wells and the Dry Ferry. The inquiry at Bell Harrow held that the Wardenry had authority over wells but not over water, and that the gap had killed them; the Fourth Article was sealed the following spring.",
   "tags": [
     "history",
     "disaster",

@@ -26,27 +26,42 @@
         "title": "Security"
       }
     ],
-    "extent": "~40 square miles of fused salt, in sheets, blisters and ridges",
+    "extent": "~40 square miles, but the shape is the fact and not the area: a belt some thirty-eight miles east to west and a mile to a mile and a half through, lying square across the line of the Road. Lightning makes glass along a track, not in a patch.",
     "features": [
       "green-black glass sheets that ring underfoot",
       "blister-domes, some man-high, hollow and thin-walled",
-      "the detour: the Road's only bend, added a century after the survey"
+      "the bend - the Road's only one, west around the belt's end, cut a century after the original survey when the belt had thickened past arguing with",
+      "the old line: the first survey's iron tripods still standing in the glass where the Road once ran straight over, cairns sagged into the fused ground, the pitch long since burned off them",
+      "the north edge, where the wheels stop and the drivers stand and look across"
     ],
     "hazards": [
-      "cuts hide, hoof and boot; a team driven onto it is lamed in an hour",
-      "lightning walks it every summer - it is still being made",
-      "no shade, no water, no landmarks once you are in it"
+      "cuts hide, hoof and boot; a team driven onto it is lamed inside an hour",
+      "the blisters carry a walking man and drop a loaded wheel - thin-walled, hollow, and there is no reading them from above",
+      "lightning walks it every summer; it is still being made",
+      "the glare doubles - light off the sheets as well as out of the sky, and eye-slits do nothing about the half that comes up",
+      "no shade and no water anywhere on it"
     ],
-    "position": "~2 days east of the Dry Ferry; the beacon line detours 1.5 days around its north edge",
+    "position": "astride the beacon line, 2 days (~39 miles) south of the Dry Ferry and 5 days north of the Centre - day 15 of the crossing. The Road's only bend rounds its western end.",
     "sensory": [
       "glass ringing underfoot",
-      "bottle-green light",
-      "ozone after a storm"
+      "bottle-green light, coming up as well as down",
+      "ozone after a storm",
+      "iron beacons standing in green glass"
     ],
+    "the_bend": "The line meets the belt fourteen miles from its western end, so the Road turns west, runs the fourteen along the north edge, rounds the end, and runs the fourteen back down the south side to pick up the old bearing: about twenty-nine miles of walking to get a mile and a quarter further south. At the laden 19.5 miles a day that is a day and a half. The seven days from the Dry Ferry to the Centre already contain it - a crossing that went straight over would make the Centre in five and a half.",
+    "the_shortcut": "Straight over is a mile and a quarter of glass and saves the day and a half, and it has never once been worth it. Four crossings in two centuries have put wagons on it; all four came off it lame, and two of them walked. The last man to try anything was a mail-runner in RR 174 with two beasts and no wagon, who went over in a morning, got his day and a half, and came into the Dry Ferry leading nothing. What makes it a temptation rather than a story is that it is marked: the old beacons stand in it every half-mile, and on a clear morning you can count them across to the far side and see the Road waiting where they end.",
+    "travel_days": {
+      "Bell Harrow": 15,
+      "Sixty Wells": 9,
+      "Tallow Reach": 26,
+      "the Centre": 5,
+      "the Dry Ferry": 2,
+      "the Kell": 6
+    },
     "type": "hazard / natural feature",
     "uses": [
       "saltglass shards are cut for eye-slits and lamp lenses at Bell Harrow",
-      "a shortcut across it saves 3 days and has never once been worth it"
+      "the shortcut across it saves 1.5 days and has never once been worth it"
     ]
   },
   "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
@@ -54,7 +69,7 @@
   "name": "The Glass Lees",
   "primary_media_id": null,
   "status": "canon",
-  "summary": "Two days east of the Dry Ferry the crust changes colour and then stops being crust: forty square miles of saltglass, fused green-black in sheets and blisters where lightning walks the plain every summer and has done for two hundred years. It rings underfoot like a struck pot and it cuts hide, hoof and boot, so nothing crosses it and the beacon line goes around. Cut a shard and hold it up and the whole plain goes the colour of a bottle.",
+  "summary": "Fifteen days out the beacon line runs to the edge of the crust and the crust stops being crust: a belt of saltglass thirty-eight miles east to west and a mile through, fused green-black in sheets and blisters where the summer lightning walks the same track it has walked for two hundred years. The Road does not cross it. The Road bends west around its end, which is the only bend in eight hundred miles and costs a day and a half, and from the north edge a driver can see the first survey's beacons still standing out in the glass and the far-side beacons a mile beyond them. That is the whole trouble with the place: the shortcut is not hidden, it is signposted. It rings underfoot like a struck pot and it cuts hide, hoof and boot, and a shard held up turns the plain the colour of a bottle.",
   "tags": [
     "hazard",
     "natural-feature",

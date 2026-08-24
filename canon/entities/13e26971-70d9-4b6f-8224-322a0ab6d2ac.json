@@ -1,20 +1,22 @@
 {
   "attributes": {
+    "bell_harrow_corroboration": "seven stepped quays cut down the north scarp across the hundred and fifty years — one new waterfront roughly every twenty years, each about forty feet below the last, and near three hundred feet of fall from the first to the seventh. That is a town chasing a sea downhill and losing at a steady rate, not a town that never noticed. The kilns burn today on the third step, which was a fish quay when it was cut, and the hide market sits under the second on stone laid to take mooring lines.",
     "calendar": "Road Reckoning (RR), counted from the sealing of the Roadwarden Statute in RR 1",
     "consequence": "the rim-cities were built as ports and are now inland. The crossing is the only thing that still joins them to each other.",
-    "living_memory": "none. The last person who had seen standing water on the Meniscus died about eighty years ago.",
-    "mechanism": "withdrawal, not catastrophe — a foot of shoreline a year for most of it, then one hot decade at the end that did the rest",
+    "living_memory": "none, and none for a long time. The last man on the rim who had seen standing water on the Meniscus was a Bell Harrow ropemaker the quay rolls name as Corren Ise: born about RR -18, a boy of eight when the last of it went off in RR -10, dead in RR 63 at eighty — a hundred and forty years before the present. The memory is four generations deep now, and it has gone from testimony to family story to a line in a chandler's ledger to nothing.",
+    "mechanism": "not withdrawal by inches. The Meniscus was shallow and its floor falls about nine inches to the mile, so the level and the shoreline moved on wildly different scales: the water went down a little under two feet a year — a stripe on a quay wall, nothing a harbourmaster would call a crisis — and the shore ran out about two and a half miles a year to match. That is roughly 385 miles a side in a hundred and fifty years, and a little over thirty-five feet a day: a wagon and its team of new ground between one dawn and the next. Nobody failed to notice. The hot decade at the end did not begin the retreat, it finished it.",
     "period": "RR -160 to RR -10 — roughly a hundred and fifty years, ending about a decade before the Statute was sealed",
     "present_day": "RR 203",
     "residue": "crust to the depth of a man's arm over most of the bounds, with brine beneath it in places and, it now appears, fresh water beneath that at the centre",
-    "scale": "an inland sea to a salt plain roughly eight hundred miles across"
+    "scale": "an inland sea to a salt plain roughly eight hundred miles rim to rim, which is about 385 miles of shoreline lost on each side",
+    "visible_retreat": "everyone watched it happen and nobody could stop watching. Fishing stages were rebuilt every third or fourth summer and abandoned in between; boats were walked out on rollers to meet the water and in the end left standing where they were walked to; children were sent down at dusk to set a stake at the edge, and the stake was dry ground by autumn. The ferry that gives the Dry Ferry its name last ran about RR -60, when the shore came past the island; its mooring rings are still bolted into the jetty and are used now to tie awnings. What the rim-cities could not do was believe it would not stop. 'Going out to the water' is still the phrase, and it still means a long walk."
   },
   "category_id": "7a510783-2fb6-426d-988b-17301e178c5b",
   "id": "13e26971-70d9-4b6f-8224-322a0ab6d2ac",
   "name": "The Drying of the Meniscus",
   "primary_media_id": null,
   "status": "canon",
-  "summary": "The inland sea did not vanish; it withdrew, over about a hundred and fifty years, at a rate a person could live beside without ever quite noticing. Ports became terraces and terraces became rim, and the last standing water went off in a single hot decade, leaving eight hundred miles of crust and a ring of harbour cities with nothing to harbour. Everyone alive learned the plain from a parent who learned it from someone who remembered a shore.",
+  "summary": "The inland sea did not vanish and it did not go quietly. It shallowed, and on a floor that flat every foot off the level took the shore more than a mile further out, so for a hundred and fifty years the water went away faster than a town could follow it. Ports became terraces and terraces became rim; the last standing water went off in a single hot decade and left eight hundred miles of crust and a ring of harbour cities with nothing to harbour. The last man who had seen it died in RR 63, and nobody now living has heard the story from anyone who was there.",
   "tags": [
     "history",
     "foundational",

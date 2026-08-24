@@ -20,9 +20,12 @@
     "licence": "one current crossing tile, stamped for the centre route",
     "master": "Ysoly Tamm",
     "present_day": "RR 203",
+    "scale": "Eleven hands, nine wagons, forty-one draught: fifty-two head on the water books and not one of them spare. That is small, and it is meant to be read as small. An ordinary Bell Harrow crossing runs nearer two hundred people, because a crossing that size is a dozen outfits and their passengers bought in under one master's tile, with hired hands, an Assembly cargo train, a cook wagon and a taster of its own. The Tamm Line is not one of those and does not travel inside one. Ysoly holds her own tile, takes the whole freight rate, carries the whole risk, and puts eleven people on eight hundred miles of salt.",
     "size": "nine wagons, forty-one draught beasts, eleven hands including the apprentice",
     "standing": "licensed continuously since founding; has never lost a crossing, which is rare enough to be worth money at the weighbridge",
+    "the_margin": "One bad crossing from foreclosure is the plain fact of the outfit, not a figure of speech. The paper at Bell Harrow is held against the wagons - never the cargo, which the Line does not own. A burst water load, a wheel through rotten crust, ten days lost to a lame team, and the wagons are somebody else's and the name comes off the tally-stick. Going alone is both why the rate is worth having and why there is no margin in it: buying into a joint tile costs a share of the freight and hands the route to another master, and Ysoly has never been able to afford the first or stomach the second.",
     "what_it_owns": "the wagons, the beasts and the tally-stick. Never the cargo. The cargo is always somebody else's.",
+    "why_it_matters_in_chapter_3": "Eleven people cannot mutiny. They can only disagree, and there is nowhere on nine wagons to do it out of earshot. When the Line splits over the survey it is one argument around one fire, at a size where every face is visible, where nobody can be outvoted and then avoided for a month, and where whoever loses is roping the same wagons at dawn and needs the people who beat them to get off the plain alive. Write it at that scale: not factions and not a crew turning on its master, but eleven people who know each other's ration by weight deciding out loud, in front of each other, what they are willing to do.",
     "why_it_matters_in_chapter_5": "a licence-holder standing on ground sealed under the Fourth Article may demand the survey be begun within one season — the Tamm Line's tile is the only clock anyone at the centre has"
   },
   "category_id": "adac2ac0-62aa-4cf7-bb5c-ea28795a985a",
@@ -30,7 +33,7 @@
   "name": "The Tamm Line",
   "primary_media_id": null,
   "status": "canon",
-  "summary": "Ysoly Tamm's outfit — nine wagons, forty-one head of draught, eleven hands, and a debt at Bell Harrow that has outlived two of her partners. It is a family firm with no family left in it: the name is on the tally-stick and the licence tile and nowhere else. Thirty years without losing a crossing has bought it a reputation it can no longer afford to trade on.",
+  "summary": "Ysoly Tamm's outfit - nine wagons, forty-one head of draught, eleven hands, and a debt at Bell Harrow that has outlived two of her partners. It is a small independent line in a trade whose ordinary crossing runs two hundred people: it has never bought into a joint tile, it goes out on the beacon line alone, and fifty-two head is the whole of it. It is a family firm with no family left in it - the name is on the tally-stick and the licence tile and nowhere else. Thirty years without losing a crossing has bought it a reputation it can no longer afford to trade on.",
   "tags": [
     "institution",
     "caravan",

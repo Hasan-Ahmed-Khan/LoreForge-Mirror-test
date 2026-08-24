@@ -29,38 +29,48 @@
     "economy": [
       "rendering",
       "resale of spent teams and wagons",
-      "southern grain in exchange for salt"
+      "southern grain in exchange for salt",
+      "supplying the Level House: candles, lamp-black, oiled paper, glass from the north"
     ],
     "features": [
       "the red shelf - the old south shore, no quays, wagons winched up",
       "the salt wall, built to break the drift, not to defend",
       "the rendering yards: tallow, hide, rope, axle-grease",
-      "the outbound pound, where arriving teams are sold off cheap"
+      "the outbound pound, where arriving teams are sold off cheap",
+      "the Level House - one cut-stone hall and a short tower, lead-roofed, the College of Levels' seat and the only building in the reach with a dressed face",
+      "the datum line scribed into the Level House floor, and the meridian slit cut in its north wall",
+      "the roll room, where every finding sealed on the plain is entered",
+      "the brine cellar cut into the shelf behind the hall: the reference brines in stoppered glass, dark and level"
     ],
     "population": "~18,000",
     "position": "south rim of the Meniscus; the southern head of the Salt Road",
-    "relation_to_bell_harrow": "the junior partner and knows it - Bell Harrow sets the price of a crossing, Tallow Reach takes what arrives",
+    "relation_to_bell_harrow": "the junior partner and knows it - Bell Harrow sets the price of a crossing, Tallow Reach takes what arrives. The one exception is the Level House: Bell Harrow can price a crossing and cannot certify a surveyor, and Tallow Reach says so oftener than is polite.",
     "sensory": [
       "tallow",
       "red dust",
       "rendering smoke",
-      "wind off the plain"
+      "wind off the plain",
+      "cold stone and lamp-black inside the Level House"
     ],
+    "the_college_and_the_town": "Two portraits and one town, and they fit together without either giving way. The College is poor - no wagons, no enforcement, no money - and it came to the far rim because the far rim was cheap and eight hundred miles from the licence office; the town found the rock and the labour, and has held it over Bell Harrow ever since, being a town with one thing Bell Harrow has not got. There is no scholarly quarter and no intention of building one. Eleven sealed surveyors and some thirty pupils lodge over the rendering sheds and buy candles, lamp-black and oiled paper by the barrel from the yards below them, which is the only trade the College brings and the yards are glad of it. The pupils smell of tallow. So does the roll.",
+    "the_level_house": "One hall and a short tower, and the only dressed stone in a town of mud brick and rendering sheds. It stands here rather than at Bell Harrow for two reasons that have held for a hundred and fifteen years. A college that certifies the Wardenry's surveyors cannot lodge in the Wardenry's licence office and be believed. And a level wants ground that does not move: the shelf is the old south shore itself, solid red rock, and the House is founded straight onto it with no fill under any wall, which is a thing Bell Harrow's stepped quays cannot offer at any price. The floor is scribed with the datum the whole plain is worked from - the old shoreline at the south rim, carried by chain and level 385 miles out to Benchmark 1 at the Centre. The master level lives in the tower. The reference brines live in the cellar, and every water-glass on the Meniscus is read against them.",
     "travel_days": {
       "Bell Harrow": 41,
       "Sixty Wells": 35,
       "the Centre": 21,
-      "the Dry Ferry": 28
+      "the Dry Ferry": 28,
+      "the Glass Lees": 26
     },
     "type": "rim-city",
-    "water": "three springs in the red rock, better than Bell Harrow's and the town's one boast"
+    "water": "three springs in the red rock, better than Bell Harrow's and the town's one boast",
+    "what_the_roll_does_not_have": "the levels at the Centre. By the College's own house rule a finding is entered on the roll here before it is shown to the body that commissioned it, and the leaf for the centre survey is blank. There is no fair copy at Tallow Reach and never was one. The College knows it, and knows who owed it."
   },
   "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
   "id": "0b137f58-891a-40da-878c-c07d76940d3b",
   "name": "Tallow Reach",
   "primary_media_id": null,
   "status": "canon",
-  "summary": "The far rim, forty-one days south of Bell Harrow, and a poorer town for it: no stepped quays, just a shelf of red rock where the old sea ended and a spill of flat-roofed houses behind a wall built to stop salt, not people. It renders rather than kilns - fat, hide, rope and axle-grease - so the whole reach smells of tallow and the wind off the plain carries it twenty miles out. Crossings that arrive here arrive spent, and Tallow Reach makes its living on what a spent crossing has to sell cheap.",
+  "summary": "The far rim, forty-one days south of Bell Harrow, and a poorer town for it: no stepped quays, just a shelf of red rock where the old sea ended and a spill of flat-roofed houses behind a wall built to stop salt, not people. It renders rather than kilns - fat, hide, rope and axle-grease - so the whole reach smells of tallow and the wind off the plain carries it twenty miles out. Three streets up from the yards, where the shelf rock comes to the surface, stands the one cut-stone building on the south rim: the Level House, seat of the College of Levels, lead-roofed and founded straight onto the rock so that nothing in it moves. There is no scholarly quarter around it - the surveyors lodge over the rendering sheds like everybody else and come to work smelling of tallow - and the town is prouder of that one hall than of anything it sells. Crossings that arrive here arrive spent, and Tallow Reach makes its living on what a spent crossing has to sell cheap.",
   "tags": [
     "rim-city",
     "south-rim",

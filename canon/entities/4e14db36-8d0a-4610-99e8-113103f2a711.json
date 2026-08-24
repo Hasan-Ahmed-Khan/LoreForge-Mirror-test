@@ -1,0 +1,44 @@
+{
+  "attributes": {
+    "_sections": [
+      {
+        "text": "",
+        "title": "Behavior"
+      },
+      {
+        "text": "",
+        "title": "Ecology"
+      }
+    ],
+    "draught": "Four to a wagon in the traces. The Tamm Line's forty-one make nine teams of four with five spare, walking loose on a line behind the last wagon. By the far rim the spares are in the traces and the ones they replaced are the ones walking loose.",
+    "endurance": "Three days on nothing at all and it will still pull. Nine days on brine and cake with no sweet water and it will pull for eight of them. What it cannot do is hurry: nineteen and a half miles a day laden is not a pace a driver sets, it is a pace the animal has and will not be argued out of. Forced runs are made by dumping ballast, never by asking the string for more.",
+    "eyes": "Small, deep-set under a bone ridge, with a third lid it draws across against glare and drift. It needs no mask and no eye-slits. People on the Road ride masked and the beasts do not, and every drover on the plain has a settled opinion about the unfairness of this.",
+    "failure": "The staggers. Salt-blind, head down, walking a slow curve out of the line of the string. A hask in the staggers goes down inside a day and does not get up, and it has to be cut out of the traces where it lies, because a downed animal still in harness takes the wagon over and the wagon takes the string.",
+    "fodder": "Twelve pounds of pressed glasswort cake a day in the traces, cut and pressed at the Swallet and sold at both depots. At the rims they are grazed on scarp saltbush, which is where they are bred. Nothing breeds on the plain.",
+    "handling": "Deaf to shouting and wholly indifferent to a whip. Driven with a flat hand on the near shoulder and a stick tapped on the near horn: two taps to lean, a held pressure to stop. A hask that will not take the shoulder is a sick hask, and the drovers read that before they read anything else.",
+    "lifespan": "Worked from four to about fourteen. A hask that has crossed twenty times is a thing drovers will walk across a pound to look at, and Ysoly Tamm has two of them.",
+    "name": "For the husk of the cough. It is a common word made a proper noun the same way 'brackening' was: the plain had a sound before it had a name for the animal, and used the sound.",
+    "on_the_tamm_line": "forty-one head, nine teams of four and five spare",
+    "physical": "Fifteen hands at the shoulder, about fourteen hundred pounds. Long head, heavy under the jaw, a single pair of blunt horns swept back and used for nothing but being tapped. Grey-dun hide that goes chalk-white at the flanks and the muzzle by the second week out and stays that way for a season after. The foot is the point of the animal: a splayed pad the size of a dinner plate, horn at the rim and gristle across the middle, which spreads on soft crust instead of punching through it. A shod horse on the Meniscus goes down through a rotten lid in one stride. A hask feels it going and stops.",
+    "plural": "hask, in the traces; hasks, in a ledger. Drovers say 'forty-one head' and never say either.",
+    "present_day": "RR 203",
+    "the_tell": "A hask that does not husk at dawn is two days from the staggers. It is the only warning there is, and the whole camp hears it - which is to say the whole camp hears an absence, forty coughs where there were forty-one. Sabra Onn counts them before she calls the ration, every dawn, and has never once said out loud that this is what she is doing.",
+    "type": "draught beast",
+    "value": "Eleven blocks of first-grade salt at Bell Harrow for a sound five-year-old. Four blocks at the outbound pound at Tallow Reach for the same animal at the end of a crossing. The difference is what a crossing costs before a single hand is paid, and it is why a line that loses beasts loses everything a year later rather than that week.",
+    "water": "Draws about six gallons a day in the traces. At most half a gallon of that has to be sweet; the rest it takes as brine off a cut lid, or as moisture out of pressed glasswort cake. Half a gallon the head the day is the figure a master loads for. It is not a statutory figure - the Third Article's 'head' means a person, fixed by the Compact of Weights in RR 47 - and the law has never taken the slightest interest in what a hask drinks. Only the master's tally does, on the face cut for water drawn.",
+    "what_it_cannot_tell_you": "It will drink fresh water and standing brine with the same indifference and no change of expression whatever. Two centuries of drovers have watered strings off rotten crust and learned nothing at all from it, because there was nothing to learn from an animal that cannot taste the difference and would not report it if it could. Finding the wet ground never required a survey. It took a College-sealed glass to ask the wet ground a question the hask was never able to answer.",
+    "why_it_can_drink_brine": "The kidney is half again the size a beast that weight has any business carrying, and it voids at a concentration that would stop a person's heart. It is not a trick and it is not free: a hask on brine alone loses condition steadily and visibly, and the half-gallon of sweet is the whole of what stands between working and failing."
+  },
+  "category_id": "d83234f9-98a2-443d-ad87-8e3bf6f10271",
+  "id": "4e14db36-8d0a-4610-99e8-113103f2a711",
+  "name": "The Hask",
+  "primary_media_id": null,
+  "status": "canon",
+  "summary": "The draught animal of the Salt Road: fifteen hands at the shoulder, fourteen hundred pounds, long-headed, splay-footed, grey-dun going white with salt at the flank and the muzzle. It is named for the noise it makes at first light - a dry husking cough as it clears the night's salt out of its nostrils - and forty-one of them wake the Tamm Line every morning of a crossing. It will drink water that would kill the person driving it, and that one fact is the reason there is a Road at all.",
+  "tags": [
+    "beast",
+    "draught",
+    "the-road",
+    "water"
+  ]
+}

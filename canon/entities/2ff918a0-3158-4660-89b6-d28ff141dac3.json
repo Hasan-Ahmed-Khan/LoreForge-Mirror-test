@@ -31,14 +31,17 @@
       "the White",
       "the old sea"
     ],
-    "caravan_pace": "~19 miles/day laden; ~26 unladen or in a forced run",
-    "extent": "~800 miles rim to rim; ~385 miles from any rim to the centre",
+    "caravan_pace": "19.5 miles the day laden; ~26 unladen or in a forced run. Forty-one days at 19.5 is 799.5 - the eight hundred miles of the crossing, walked. Every distance on the Road is a walked distance; the plain has never been measured any other way.",
+    "extent": "~800 miles rim to rim, walked: 385 miles from Bell Harrow to Benchmark 1 at the centre (20 days) and 415 miles on from the centre to Tallow Reach (21 days), at 19.5 miles the day laden. The southern half is longer over ground that looks identical, because the line bows west to take in the Swallet - a water point is worth a day - and because the Road bends 1.5 days round the north edge of the Glass Lees. 'Eight hundred miles across' is therefore a road figure and not a geometer's one, and where a surveyor's chain-line and a drover's beacon count disagree, the walked figure governs water and time and the chain figure governs the map and the law.",
     "hazards": [
       "glare blindness (walkers ride masked, eye-slits cut in hide)",
       "rotten crust - a wheel through the lid and the axle is in brine",
       "salt-sting: cracked lips, split knuckles, cuts that will not close",
-      "no shade of any kind between beacons"
+      "no shade of any kind between beacons",
+      "a wetting - the crust goes to grey slurry a hand deep and nothing on the plain moves for two or three days",
+      "rain-brine: what falls is drinkable for about a day and salt after that, so a wetting adds thirst rather than relieving it"
     ],
+    "precipitation": "It rains on the Meniscus. Rarely, and every time it does it is worse than not raining. There are three weathers and no fourth.\n\nDRY STORMS. Two or three summers in five, cloud builds over the southern scarp and walks out onto the plain trailing rain that never lands - it goes off in the air a thousand feet up and arrives as nothing but lightning and the smell of it. That is what has been making the Glass Lees for two hundred years, and it is why the Lees are glass and not a lake.\n\nA WETTING. Once in four or five years, a night of rain that reaches the ground. The crust goes to grey slurry a hand deep, every wagon between the rims stops for two or three days, soft patches open where the survey shows none, and the beacon cairns settle out of true so the line has to be walked and reset before anyone trusts it. The Dry Ferry's cistern fills in a wetting year and in no other year at all, which is the whole difference between its good years and its bad, and the Swallet floods off the crust and runs brack for a month afterwards. The last wetting was RR 199.\n\nNOTHING. Everything else. Reckon on nothing. What falls is not water for long in any case - rain standing on salt is brine inside a day and foul inside two, so a crossing that drank it would be pouring salt into people already short. No licence has ever been granted on the strength of weather, and the Third Article makes reckoning on it unlawful regardless: the carry is the carry, and it is answered for at the far rim against a scale.",
     "sensory": [
       "white glare",
       "hot stone",
@@ -47,14 +50,26 @@
       "no wind at noon"
     ],
     "surface": "salt crust over grey clay; polygonal pressure ridges; soft 'rotten' patches where brine sits under a thin lid",
+    "the_ration": "Two gallons the head the day for people, by the Third Article of RR 1; half a gallon the head the day for draught, by custom and self-interest. 'The head' means one person named on the licence - the Compact of Weights fixed that reading in RR 47 and the weighbridges have used it since - so beasts are not heads, are not in the statutory carry, and are reckoned on the master's own tally where the law does not look. A gallon of sweet water weighs ten pounds, also under the Compact, which is why water at Bell Harrow is weighed and not measured and why a master can be held to the carry by a scale.",
     "the_road": "the Salt Road is not a road but a surveyed line of beacons - iron tripods on cairns, one every half-mile, blackened with pitch so they read against the glare. Off the beacon line there is no line.",
     "travel_days": {
+      "Bell Harrow - the Swallet": 30,
       "rim to centre": 20,
-      "rim to rim (Bell Harrow - Tallow Reach)": 41
+      "rim to rim (Bell Harrow - Tallow Reach)": 41,
+      "the Centre - the Swallet": 10,
+      "the Dry Ferry - the Swallet": 17,
+      "the Swallet - Tallow Reach": 11
     },
     "type": "salt plain",
     "was": "an inland sea, drained or evaporated some two centuries ago",
-    "water": "none on the surface. Every drop crossing the plain is carried, or drawn at Sixty Wells and the Dry Ferry."
+    "water": "None standing, and none that may be reckoned on. Every drop a crossing drinks is carried, or drawn at one of three places: Sixty Wells (day 6), the Dry Ferry (day 13) and the Swallet (day 30). The Kell has none and the Centre has none, which is the whole of the book. Between the Ferry and the Swallet lies seventeen days of dry Road - the longest dry leg on the plain, and the leg that decides what a crossing can afford to be. The beasts are not watered out of the butts: the water-master cuts the lid off a rotten patch a hundred yards clear of the beacon line and lets the string drink the brine standing under it, which would kill a person in a week and does a hask no harm whatever. Two centuries of strings have drunk the plain's own wet ground and nobody has ever learned anything from it, because a hask cannot taste the difference and until Denet Rasca walked a sealed glass out here, neither could anyone else.",
+    "water_points": {
+      "Sixty Wells": "day 6 - sixty shafts, nine of them sweet in any season, brackish to foul otherwise",
+      "dry legs": "6, 7, 17, 11. The seventeen-day leg from the Ferry to the Swallet is the longest and the one that has to close.",
+      "the Dry Ferry": "day 13 - the rock cistern only; brackish, unreliable, sold by weight",
+      "the Swallet": "day 30 - the one running water on the plain; cold, rusty, sweet to about midsummer"
+    },
+    "why_the_rain_matters_at_the_centre": "The Centre's ground is brown and soft before anything falls on it. Put a wetting on it and the survey site is standing water - and the Fourth Article's plain words are 'water rising or standing within the bounds'. A night of rain hands a Warden the literal text of the statute at the exact spot, with two witnesses to hand and no argument required about lenses or depths. It hands the other side the only answer there is: that it is rain, that it will be brine by tomorrow, and that rain has never been anybody's water. Both are true. The weather can start chapter five a chapter early, and it can do it while the auger rig is still standing."
   },
   "category_id": "dfd596db-e19d-417a-9011-be0dc58c49a1",
   "id": "2ff918a0-3158-4660-89b6-d28ff141dac3",
