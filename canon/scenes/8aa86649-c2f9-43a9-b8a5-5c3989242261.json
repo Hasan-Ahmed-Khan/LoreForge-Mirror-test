@@ -1,0 +1,26 @@
+{
+  "blueprint": {
+    "context": "The ending of the crossing.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [],
+    "objectives": [
+      "End the book"
+    ],
+    "setting": {
+      "description": "The centre of the plain, or the far rim."
+    },
+    "time_of_day": ""
+  },
+  "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
+  "id": "8aa86649-c2f9-43a9-b8a5-5c3989242261",
+  "in_world_time": "",
+  "sort_order": 3,
+  "status": "drafted",
+  "synopsis": "The last of it.",
+  "title": "Salt and Water",
+  "word_count": 7
+}
