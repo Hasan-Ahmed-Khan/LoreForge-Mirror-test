@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The chapter's close and the crossing's start. The apprentice who wants a real charge of her own is given one, and it is the one thing on the train she is forbidden to look inside. Nine strokes of a bell that will run for an hour when the joint tile goes out in four days is the whole scale of the Tamm Line said out loud. The packet leaves Bell Harrow in the fourth wagon, sealed, with nobody willing to have been the one who opened it.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "departure",
+      "elegiac",
+      "glare",
+      "restrained"
+    ],
+    "objectives": [
+      "Give Hanei the charge she wants, and make it the one thing she may not open",
+      "Answer her real fear -- being sent back from the wells as surplus -- with an instruction, not an answer",
+      "Ring the crossing out at nine strokes and set that against the joint tile's hour",
+      "Put the plain and the glare in front of a girl who has never seen water without a far side",
+      "End with the packet aboard and unopened, and no face on the tally-stick to cut it on"
+    ],
+    "setting": {
+      "description": "The yard, then the gate at the head of the seventh quay, then the crust: grey-white, ridged into plates the width of a wagon, ticking as the sun gets onto it. Hide masks with saltglass slits cut from the Glass Lees."
+    },
+    "time_of_day": "first light"
+  },
+  "chapter_id": "12d25a8a-d748-4a1a-b603-17642e17c3cc",
+  "id": "bedd5263-f261-4076-b351-58d47b4c414d",
+  "in_world_time": "",
+  "sort_order": 5,
+  "status": "drafted",
+  "synopsis": "Ysoly gives Hanei charge of the packet and a set of instructions she repeats back word for word, then answers her question about being sent back from the wells with an instruction instead. The harrow tower rings the crossing out, once for each wagon: nine. Ysoly looks for a face on the tally-stick to cut the packet on, and there is none.",
+  "title": "Nine Strokes",
+  "word_count": 657
+}

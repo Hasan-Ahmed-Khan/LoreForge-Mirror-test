@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The hinge of the chapter. Six people are offered the chance to break the thread and every one of them declines on grounds that are, individually, entirely sensible: the seals are single-strike, a College seal is not the Wardenry's to break, it isn't water, it isn't cargo, it isn't theirs. Denet checks Ysoly's water arithmetic in the margin of her own way-bill, which is the first thing about him that does not fit a passenger.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "tense",
+      "pre-dawn",
+      "legal",
+      "withheld"
+    ],
+    "objectives": [
+      "Deliver Sabra Onn's dawn ration call in full, in the eleven words she has used for thirty years",
+      "Bring the sealed survey packet aboard and establish exactly why it cannot be opened twice",
+      "Have every person present refuse to open it, in character and for a different reason each",
+      "Show Pell go silent mid-joke, which is the only warning anyone ever gets",
+      "Use Denet's tell -- checking arithmetic in the margin -- to mark him as more than a passenger"
+    ],
+    "setting": {
+      "description": "The Tamm Line's yard at Bell Harrow in the last of the dark on departure morning. Forty-one hask husking the night's salt out of their nostrils, lanterns held low, the way-bill and a lamp on the tailgate of the fourth wagon."
+    },
+    "time_of_day": "before dawn"
+  },
+  "chapter_id": "12d25a8a-d748-4a1a-b603-17642e17c3cc",
+  "id": "9e287915-c47c-46fa-8daa-6070ba4975b3",
+  "in_world_time": "",
+  "sort_order": 4,
+  "status": "drafted",
+  "synopsis": "Departure morning. Sabra calls the ration figure to the yard before anyone can ask for it. Denet Rasca arrives with a College-sealed glass and a hide packet stitched shut under two single-strike seals, and refuses to open it. So does everyone else, each for their own reason. It is weighed at a pound and thirteen ounces and entered on the way-bill as passenger's goods.",
+  "title": "The Sealed Thing",
+  "word_count": 937
+}

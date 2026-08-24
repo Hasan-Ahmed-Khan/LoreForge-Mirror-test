@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Later the same day, at the Roadwarden licence office. The tile that chapter five turns on is issued here and hung on its thong; the difference between a stamp and a hazard seal is stated by the one person who will have to hold both. Denet Rasca enters the book as an endorsement before he enters as a man, and two questions go unanswered in front of an apprentice who has begun counting them.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "legal",
+      "clipped",
+      "foreboding",
+      "institutional"
+    ],
+    "objectives": [
+      "Put the crossing licence tile in Ysoly's hands and establish exactly what it is and how it breaks",
+      "Establish Iseul Fane: Third Rank, statute-quoting, stamp-not-seal, 'the Wardenry' not 'the Wardens'",
+      "Introduce Denet Rasca as an endorsement on paper, and the fact that he asked for this outfit by name",
+      "Contrast the nine-wagon Tamm Line against the thirty-six-wagon joint tile four days behind it",
+      "Leave two questions visibly unanswered so Hanei can start noticing which ones are"
+    ],
+    "setting": {
+      "description": "The Roadwarden licence office, two rooms at the head of the seventh quay -- the lowest step cut. Clay dust, hot wax, vinegar for the stamps. A rack of the season's fired tiles cooling on edge, with the unclaimed ones at the far end."
+    },
+    "time_of_day": "afternoon"
+  },
+  "chapter_id": "12d25a8a-d748-4a1a-b603-17642e17c3cc",
+  "id": "c66bb0e4-2120-4dd7-9910-43b8c0a180c5",
+  "in_world_time": "",
+  "sort_order": 1,
+  "status": "drafted",
+  "synopsis": "Iseul Fane writes the way-bill, names the eleven hands and issues the crossing licence tile. She corrects 'seal' to 'stamp', endorses a passenger Ysoly did not ask for -- a College-sealed Warden-surveyor who requested the Tamm Line by name -- and does not answer why a Warden of the Third Rank is riding out with nine wagons.",
+  "title": "The Rack of Tiles",
+  "word_count": 824
+}

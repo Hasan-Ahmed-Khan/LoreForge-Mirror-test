@@ -1,0 +1,36 @@
+{
+  "blueprint": {
+    "context": "Day one of the loading. Hanei's first working morning on the Tamm Line, and the reader's first sight of Bell Harrow and the plain. Establishes the Compact of Weights (ten pounds the gallon, 'the head' means a person), the Third Article's statutory carry, the stage-to-stage licensing of water, and Sabra Onn's presence at the Brackening. Sets the book's real currency: water is weight, weight is salt, salt is money.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "arid",
+      "procedural",
+      "smoke",
+      "restrained",
+      "money"
+    ],
+    "objectives": [
+      "Introduce Bell Harrow, the stepped quays and the Meniscus through work rather than description",
+      "Put the statutory ration and the per-beast draw on the page in Sabra Onn's mouth",
+      "Stage the first argument about money, water and law, and let Ysoly split the difference at four days' grace",
+      "Establish Ysoly's tell (counting butts twice) and the tally-stick as a book of account under the Compact",
+      "Seed the Brackening at Sixty Wells without spending it -- Sabra was in it"
+    ],
+    "setting": {
+      "description": "The weighbridge on Bell Harrow's third step, in among the salt kilns, at the edge where the town ends and the crust begins. Stone platform, iron beam, the sealed ten-pound water cylinder chained to a ring. Kiln smoke lying flat, no wind before noon."
+    },
+    "time_of_day": "morning"
+  },
+  "chapter_id": "12d25a8a-d748-4a1a-b603-17642e17c3cc",
+  "id": "e5ee6d98-c023-4dd5-93d1-c391a1a11934",
+  "in_world_time": "",
+  "sort_order": 0,
+  "status": "drafted",
+  "synopsis": "At the weighbridge in the kiln smoke, Sabra Onn argues for five days' water grace on the first leg and Ysoly costs it in blocks of salt. They settle at four days -- 425 gallons, 4,250 pounds -- and the Wardenry licenses a hundred and thirty-two of it, because the law weighs people and not hask.",
+  "title": "Weighed and Not Measured",
+  "word_count": 816
+}

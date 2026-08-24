@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "Day two of the loading. Nine wagons loaded plausibly and to the pound, and the whole economic position of the Tamm Line made concrete: it owns the wagons, the beasts and the tally-stick, and not one pound of what it carries. Vask is courteous, sincere and the man who prices her retirement. Pell Corrow is eight feet away with a trace-chain, listening to a fact he will sell that evening.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "transactional",
+      "courteous",
+      "pressure",
+      "heat"
+    ],
+    "objectives": [
+      "Load the nine wagons to a checkable figure: 8,480 lb of ballast on 4,250 lb of water",
+      "Establish that the Line owns nothing it carries and is one bad crossing from foreclosure",
+      "Put Oreth Vask on the page with his book, his warmth and his unfinished sentence",
+      "Have Ysoly say the word 'passenger' in front of Pell Corrow, which is where the leak actually starts",
+      "Show the hask as working animals -- teams of four, five spare, a hot foot on the old near-leader"
+    ],
+    "setting": {
+      "description": "The Tamm Line's loading yard under the second step at Bell Harrow. Barrows of pressed second-grade salt coming up from the counting-house on the quay, wagons open, teams standing, too hot for coats by mid-morning."
+    },
+    "time_of_day": "mid-morning"
+  },
+  "chapter_id": "12d25a8a-d748-4a1a-b603-17642e17c3cc",
+  "id": "432471b0-36df-4e9b-9bbd-7e8b11642310",
+  "in_world_time": "",
+  "sort_order": 2,
+  "status": "drafted",
+  "synopsis": "The Assembly's ballast goes aboard -- two hundred and twelve blocks, forty pounds each, stacked low between the axles. Oreth Vask brings his book to the yard, holds the rate where it stood, writes down the word 'passenger' before Ysoly has finished saying it, mentions the paper on her wagons, and does not finish his last sentence.",
+  "title": "Two Hundred and Twelve",
+  "word_count": 879
+}

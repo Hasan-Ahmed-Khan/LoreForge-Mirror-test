@@ -1,0 +1,35 @@
+{
+  "blueprint": {
+    "context": "The evening before departure. The channel from the caravan to the Salt Assembly is opened here, and it is opened by an ordinary man doing an ordinary piece of business with a fact anyone could have had at the licence office window. Thecla is nobody's creature; she prices the news before she believes it, and notices that the Assembly's counting-house has been quiet about the centre route for a month.",
+    "entities": [],
+    "entry_conditions": "",
+    "exit_conditions": "",
+    "gameplay_notes": "",
+    "in_world_time": "",
+    "mood_tags": [
+      "transactional",
+      "intimate",
+      "quiet-betrayal",
+      "dusk"
+    ],
+    "objectives": [
+      "Establish Pell's debt, his daughter, and why news is the currency he can afford",
+      "Establish Thecla Bram: fast, transactional, repeats a price back lower, never touches principal",
+      "Open the wire from the caravan to Vask without anybody betraying anybody",
+      "Register that the Assembly has already gone quiet about the centre route",
+      "Set up the Dry Ferry on day thirteen as the place a line can be sent north"
+    ],
+    "setting": {
+      "description": "Thecla Bram's counting room over the hide market under the second step, out of the kiln smoke. Reached by an outside stair. No lamp lit after dark. Green hide and wet rope coming up through the boards as the market shuts."
+    },
+    "time_of_day": "dusk"
+  },
+  "chapter_id": "12d25a8a-d748-4a1a-b603-17642e17c3cc",
+  "id": "269e1515-f7bd-451b-a3d5-fbabac944c5d",
+  "in_world_time": "",
+  "sort_order": 3,
+  "status": "drafted",
+  "synopsis": "Pell Corrow climbs to Thecla Bram's counting room with half a quarter's payment and a girth to mend. She reminds him his daughter is eleven and the houses put a child on the paper at fourteen. He pays the rest in news -- a College-sealed Warden-surveyor who bought passage on the smallest line on the quay, by name -- and she takes a quarter off the interest and never touches principal.",
+  "title": "What News Costs",
+  "word_count": 938
+}
