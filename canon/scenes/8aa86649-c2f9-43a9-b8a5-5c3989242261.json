@@ -1,26 +1,35 @@
 {
   "blueprint": {
-    "context": "The ending of the crossing.",
+    "context": "Coda. The seal is entered, the compensation paid, every one of Vask's terms kept, and the Road goes on exactly as before.",
     "entities": [],
     "entry_conditions": "",
     "exit_conditions": "",
     "gameplay_notes": "",
     "in_world_time": "",
-    "mood_tags": [],
+    "mood_tags": [
+      "bleak",
+      "elegiac",
+      "restrained",
+      "salt and ash"
+    ],
     "objectives": [
-      "End the book"
+      "Enter the seal and let the Wardenry find it owes itself",
+      "Absorb Iseul into the body that will not appoint the surveyor",
+      "Pay Denet a quarter of a block more than his passage cost",
+      "Give Ysoly the retirement she wanted and take the count away from her",
+      "End on Hanei counting the butts twice, having learned the wrong thing and learned it well"
     ],
     "setting": {
-      "description": "The centre of the plain, or the far rim."
+      "description": "The third and fourth steps at Bell Harrow in the kiln smoke; the licence office and its roll; a room with a window nobody looks out of; and the beacon line at the centre on the twentieth day of the following summer."
     },
-    "time_of_day": ""
+    "time_of_day": "autumn into the following spring"
   },
   "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
   "id": "8aa86649-c2f9-43a9-b8a5-5c3989242261",
   "in_world_time": "",
   "sort_order": 3,
   "status": "drafted",
-  "synopsis": "The last of it.",
+  "synopsis": "Bell Harrow and after. Iseul enters the seal with eleven days of the forty in hand, writes the sentence that says the Wardenry owes itself, asks when the surveyor will be appointed and is told he is not yet appointed; she takes a seat at Bell Harrow to be in the room where he is appointed, and he is not. Denet is paid four blocks and a quarter for the ground - a quarter of a block more than his passage cost. Ysoly sells the Line and gets the roof she wanted and cannot bear it. In the spring Hanei goes out again under Sabra Onn, walks past the sealed ground on the twentieth day, and at dusk counts the butts twice.",
   "title": "Salt and Water",
-  "word_count": 7
+  "word_count": 1099
 }

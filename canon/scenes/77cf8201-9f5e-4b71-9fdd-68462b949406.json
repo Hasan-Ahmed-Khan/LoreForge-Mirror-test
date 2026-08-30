@@ -1,27 +1,34 @@
 {
   "blueprint": {
-    "context": "The ending of the crossing.",
+    "context": "Continues directly from chapter five's last line. The seal is spoken and set; Iseul has named Denet Rasca the finder; she has spoken the cause under the Second Article and put her hand out for the tile, and Ysoly has lifted it.",
     "entities": [],
     "entry_conditions": "",
     "exit_conditions": "",
     "gameplay_notes": "",
     "in_world_time": "",
-    "mood_tags": [],
+    "mood_tags": [
+      "bleak",
+      "restrained",
+      "procedural",
+      "irreversible"
+    ],
     "objectives": [
-      "Establish the clock",
-      "Put the tile in someone's hand"
+      "Break the tile before the requirement is spoken, and make the cause of it Ysoly's own discipline rather than anybody's villainy",
+      "Let Ysoly speak the requirement over the halves and let it be worth nothing",
+      "Keep Iseul honest: she does not know whether she hurried, and says so",
+      "Establish that there is no clock, and that the ground is held as Ferrant's has been"
     ],
     "setting": {
-      "description": "The centre of the plain, or the far rim."
+      "description": "Benchmark One at the centre of the Meniscus, dusk of the twenty-third day, wet clay to the knee round a four-foot hole with a lead disc on a pin at its edge; the fires of thirty-six wagons nine miles north."
     },
-    "time_of_day": ""
+    "time_of_day": "dusk"
   },
   "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
   "id": "77cf8201-9f5e-4b71-9fdd-68462b949406",
   "in_world_time": "",
   "sort_order": 0,
   "status": "drafted",
-  "synopsis": "The seal is entered, or it is not.",
-  "title": "The Forty Days",
-  "word_count": 7
+  "synopsis": "Dusk on the twenty-third. Ysoly has the sentence and she has her two witnesses, and before she speaks she does the thing she has done at a tailgate every dusk for thirty years: she looks at them again. The clay lets go between her hand and the Warden's. She speaks the requirement anyway, over the halves, and Iseul reads her the proviso that kills it, will not say whether she hurried, and offers the only mercy there is - that it will be entered on the roll that the sentence was spoken too late.",
+  "title": "Whichever Is Spoken First",
+  "word_count": 1099
 }

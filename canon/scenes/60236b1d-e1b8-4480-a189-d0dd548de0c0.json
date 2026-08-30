@@ -1,26 +1,34 @@
 {
   "blueprint": {
-    "context": "The ending of the crossing.",
+    "context": "The tile is broken and the seal stands. The Tamm Line is an unlicensed crossing standing three hundred and eighty-five miles from either rim with a hundred and twenty-two blocks of ballast owed at the far rim.",
     "entities": [],
     "entry_conditions": "",
     "exit_conditions": "",
     "gameplay_notes": "",
     "in_world_time": "",
-    "mood_tags": [],
+    "mood_tags": [
+      "bleak",
+      "procedural",
+      "crowded",
+      "final"
+    ],
     "objectives": [
-      "Decide the packet's fate"
+      "Give Sabra Onn the two hundred witnesses she demanded and let them change nothing",
+      "Fill and cap the hole with the Line's own dumped ballast",
+      "Send the packet off the ground in the finder's hand, under the Article's own proviso",
+      "Put the Tamm Line inside another master's tile and hand the route away"
     ],
     "setting": {
-      "description": "The centre of the plain, or the far rim."
+      "description": "The survey camp at Benchmark One on the morning of the twenty-fourth day: eleven stakes, four rotted tents, a hask's grave, and thirty-six wagons and two hundred people coming on out of the north."
     },
-    "time_of_day": ""
+    "time_of_day": "morning"
   },
   "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
   "id": "60236b1d-e1b8-4480-a189-d0dd548de0c0",
   "in_world_time": "",
   "sort_order": 1,
   "status": "drafted",
-  "synopsis": "The packet, and who is holding it.",
+  "synopsis": "First light on the twenty-fourth. The joint tile comes through and two hundred people file past the hole and look down, which is exactly what Sabra Onn asked for on the rock and is worth nothing. Iseul has the hole filled with the Tamm Line's own hundred dumped blocks, reads the second proviso so the packet goes off the ground in Denet's hand, and Vask buys nine wagons and eleven hands into Master Sarn's tile. Ysoly signs the joint-tile paper she has refused for thirty years.",
   "title": "What the Wagon Carries",
-  "word_count": 8
+  "word_count": 1099
 }

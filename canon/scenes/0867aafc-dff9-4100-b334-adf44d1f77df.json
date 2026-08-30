@@ -1,26 +1,34 @@
 {
   "blueprint": {
-    "context": "The ending of the crossing.",
+    "context": "The crossing arrives inside Master Sarn's joint tile with Vask's letter to the keeper of the roll travelling in the same mail bag.",
     "entities": [],
     "entry_conditions": "",
     "exit_conditions": "",
     "gameplay_notes": "",
     "in_world_time": "",
-    "mood_tags": [],
+    "mood_tags": [
+      "bleak",
+      "institutional",
+      "cold",
+      "ironic"
+    ],
     "objectives": [
-      "Pay off the crossing"
+      "Use the tally-stick as evidence and have it refused where it would matter",
+      "Let Denet obey the College house rule at last, four hours before it stops being worth anything",
+      "Get the depth, the quality and the volume all onto a public roll",
+      "Show that a complete record moves nothing while the ground is sealed"
     ],
     "setting": {
-      "description": "The centre of the plain, or the far rim."
+      "description": "Tallow Reach: the red shelf and the outbound weighbridge under the salt wall, and the Level House three streets up - cut stone, lead roof, a datum scribed in the floor and a meridian slit in the north wall."
     },
-    "time_of_day": ""
+    "time_of_day": "afternoon"
   },
   "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
   "id": "0867aafc-dff9-4100-b334-adf44d1f77df",
   "in_world_time": "",
   "sort_order": 2,
   "status": "drafted",
-  "synopsis": "Tallow Reach, or the ground at the centre.",
+  "synopsis": "Tallow Reach, the forty-fifth day. The weighbridge takes the tally-stick as a book of account, enters the ballast and the debt, and will not enter the water; Ysoly makes the clerk write that she asked. Three streets up at the Level House, Denet finally makes the four-line entry, and a fifth, copying the volume off a caravan master's notches. Six hours later the depot bag brings Vask's six lines and the College lifts his seal. The record is complete, correct, public - and changes nothing, because the ground is held and the Wardenry appoints the surveyor.",
   "title": "The Far Rim",
-  "word_count": 7
+  "word_count": 1100
 }
