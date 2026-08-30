@@ -1,26 +1,35 @@
 {
   "blueprint": {
-    "context": "The ending of the crossing.",
+    "context": "Ten days south of the Centre, travelling under Sild's roll number. Deep water can be owned and tolled and padlocked; shallow water cannot, which is why the Swallet's thirty people exist and why they will not. The collapse in the price of salt runs at the speed of people talking and arrives long before anybody drinks.",
     "entities": [],
     "entry_conditions": "",
     "exit_conditions": "",
     "gameplay_notes": "",
     "in_world_time": "",
-    "mood_tags": [],
+    "mood_tags": [
+      "reckoning",
+      "cold water",
+      "indictment",
+      "restraint"
+    ],
     "objectives": [
-      "Pay off the crossing"
+      "Put faces and numbers on the people the water ruins, in the one place on the Road where they are visible",
+      "Let Sabra Onn -- who told her to dig it, and who witnessed the requirement -- say plainly what it has cost",
+      "Refuse Ysoly a defence, and refuse Sabra a clean grievance",
+      "Break Pell Corrow's eleven days of silence with one ordinary sentence about a hot foot",
+      "Close on the tally-stick, which has four faces and no face for this"
     ],
     "setting": {
-      "description": "The centre of the plain, or the far rim."
+      "description": "The Swallet on the thirty-fourth day: the windlass house and its shaft, two hundred feet of ochre stone trough, forty acres of glasswort under irrigation, the pressing shed, and a two-room Wardenry post with a toll-book, a strongbox and the padlock that is the government of the southern leg."
     },
-    "time_of_day": ""
+    "time_of_day": "afternoon into dark, day thirty-four"
   },
   "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
   "id": "0867aafc-dff9-4100-b334-adf44d1f77df",
   "in_world_time": "",
   "sort_order": 2,
   "status": "drafted",
-  "synopsis": "Tallow Reach, or the ground at the centre.",
-  "title": "The Far Rim",
-  "word_count": 7
+  "synopsis": "The Swallet, day thirty-four, on somebody else's bill. The news has run ten days ahead of them inside two hundred people, and thirty cutters and a windlass crew say nothing at all to a woman with a cut thong. At the glasswort beds Sabra Onn tells Ysoly plainly what she has done: to Aunis and her boy, to the six on the windlass and the thirty in the beds, to Rusk and Aske and the depot man at the Ferry, to a hundred and eighty hands on the tile behind them, and to herself at sixty-one with thirty-seven years of a trade that only exists while water is scarce. She started a clock nobody asked her to start, and she will not be thanked. Pell Corrow says one sentence about a hot foot after eleven days of silence. There is no face on the tally-stick for any of it.",
+  "title": "The Padlock",
+  "word_count": 1269
 }

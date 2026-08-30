@@ -1,27 +1,35 @@
 {
   "blueprint": {
-    "context": "The ending of the crossing.",
+    "context": "Continues from the last line of chapter 5. Iseul Fane has declared the hazard, set the seal before Oreth Vask and Sabra Onn, named Denet Rasca the finder so that the Wardenry owes itself, spoken the cause under the Second Article, and put her hand out for the tile. Two Articles sealed 166 years apart point at each other and whichever sentence is spoken first governs.",
     "entities": [],
     "entry_conditions": "",
     "exit_conditions": "",
     "gameplay_notes": "",
     "in_world_time": "",
-    "mood_tags": [],
+    "mood_tags": [
+      "climax",
+      "legal",
+      "cold",
+      "irreversible"
+    ],
     "objectives": [
-      "Establish the clock",
-      "Put the tile in someone's hand"
+      "Put the requirement in Ysoly's mouth over a whole tile, before the same two witnesses, in the Article's own order",
+      "Have Iseul accept it and undertake to enter it on the roll beside her own seal, because the Article obliges her and because she believes in it",
+      "Break the tile on the page and make the sound land on Hanei, who has never heard it",
+      "Let Vask price the trap: whichever way the Wardenry moves, the Road ends",
+      "Leave eleven people unlicensed 385 miles from a rim, and set up the joint tile as the only way off the salt"
     ],
     "setting": {
-      "description": "The centre of the plain, or the far rim."
+      "description": "The rim of the four-foot hole at Benchmark One at last light on the twenty-third day: trodden brown mire, eleven numbered stakes, a hundred blocks of ballast stacked white on brown, a lead disc wired to an iron pin six paces west, and the fires of thirty-six wagons standing up on the northern horizon nine miles off."
     },
-    "time_of_day": ""
+    "time_of_day": "last light into full dark, day twenty-three"
   },
   "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
   "id": "77cf8201-9f5e-4b71-9fdd-68462b949406",
   "in_world_time": "",
   "sort_order": 0,
   "status": "drafted",
-  "synopsis": "The seal is entered, or it is not.",
+  "synopsis": "Last light on the twenty-third day, at the rim of the hole. With the tile whole in her hand and Iseul Fane's fingers over the back of it, Ysoly Tamm speaks the fourth proviso's requirement before the same two named witnesses -- Oreth Vask and Sabra Onn -- and the season clock starts. Iseul enters it, then breaks the clay, cuts the thong and rolls the halves in the cloth the hazard seal has lain in since RR 191. Vask does the arithmetic aloud: the Wardenry must set a College-sealed surveyor on that ground before the autumn turns or the seal lifts of itself and the ground is free for ever, and there is one sealed surveyor inside 385 miles. The Tamm Line is unlicensed at the centre of the plain.",
   "title": "The Forty Days",
-  "word_count": 7
+  "word_count": 1121
 }

@@ -1,26 +1,35 @@
 {
   "blueprint": {
-    "context": "The ending of the crossing.",
+    "context": "Forty-four days out of Bell Harrow. A broken tile is no licence, so the Compact's fifth head no longer plainly covers a tally cut after last light on the twenty-third. Vask's six lines and Denet's four have travelled south in the same bag. Hanei was given the packet on the first morning and the pound at Sixty Wells, dug the hole, drank the water and buried a hask.",
     "entities": [],
     "entry_conditions": "",
     "exit_conditions": "",
     "gameplay_notes": "",
     "in_world_time": "",
-    "mood_tags": [],
+    "mood_tags": [
+      "aftermath",
+      "tallow",
+      "elegiac",
+      "unresolved"
+    ],
     "objectives": [
-      "End the book"
+      "Price the whole crossing in blocks, beasts and referred wages, without editorial",
+      "Give Sabra Onn her last count -- thirty-one, because the water was not hers",
+      "Land the College's house rule on the person it hurts, and hand leaf forty-one back",
+      "Let Hanei ask the terms and get them, and not soften what she cannot pay",
+      "End the book on the dawn figure said to nobody, and on nobody answering"
     ],
     "setting": {
-      "description": "The centre of the plain, or the far rim."
+      "description": "Tallow Reach: the red shelf and the winch, the salt wall, the weighbridge, the outbound pound where spent teams are sold cheap, and the Level House three streets up -- one cut-stone hall and a short tower founded straight onto the rock, its roll room smelling of lamp-black and tallow."
     },
-    "time_of_day": ""
+    "time_of_day": "the forty-fourth day, and the morning after"
   },
   "chapter_id": "327df21a-e56d-4989-84cc-549637596987",
   "id": "8aa86649-c2f9-43a9-b8a5-5c3989242261",
   "in_world_time": "",
   "sort_order": 3,
   "status": "drafted",
-  "synopsis": "The last of it.",
+  "synopsis": "Tallow Reach on the forty-fourth day, three days late, winched up the red shelf in the order of somebody else's bill. Twenty-two blocks short and answered for personally by a woman who is a hand on this bill; the tally-stick entered and referred to a rim court that will take four years, wages and all. The hands scatter, the forty go into the outbound pound at four blocks a head, and Sabra Onn will not count the crossing because the water was not hers. At the Level House a clerk enters Denet's four lines and the letter that lifts his seal out of the same bag in the same hour, and hands leaf forty-one back across the desk. Hanei asks what a pupil-leveller costs and repeats the terms back word for word. The next morning, at the husking hour, with no string and no butts and no line, she says the figure aloud on the shelf so that afterwards no one can claim it was not said.",
   "title": "Salt and Water",
-  "word_count": 7
+  "word_count": 1301
 }
